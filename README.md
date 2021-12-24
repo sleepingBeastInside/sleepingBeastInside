@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Peter Wang: Python and the Source Code of Humans, Computers, and Reality | Lex Fridman Podcast #250](https://www.youtube.com/watch?v=X0-SXS6zdEQ)
 - [David Goggins and Lex Fridman pushup challenge in Las Vegas](https://www.youtube.com/watch?v=IbEUbykf9zw)
 - [Albert Bourla: Pfizer CEO | Lex Fridman Podcast #249](https://www.youtube.com/watch?v=Z_LhPMhkEdw)
 - [Norman Naimark: Genocide, Stalin, Hitler, Mao, and Absolute Power | Lex Fridman Podcast #248](https://www.youtube.com/watch?v=Vrz8YDl9CeA)
 - [The biggest chess game ever](https://www.youtube.com/watch?v=Iy_oYCNhiUI)
-- [Jamie Metzl: Lab Leak Theory | Lex Fridman Podcast #247](https://www.youtube.com/watch?v=K78jqx9fx2I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
