@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Michael Malice: New Year&#39;s Special | Lex Fridman Podcast #253](https://www.youtube.com/watch?v=B2tXN7ZnSfU)
 - [Elon Musk Meme Review](https://www.youtube.com/watch?v=oJHb5a3ggzE)
 - [Elon Musk: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI | Lex Fridman Podcast #252](https://www.youtube.com/watch?v=DxREm3s1scA)
 - [Ray Dalio: Money, Power, and the Collapse of Empires | Lex Fridman Podcast #251](https://www.youtube.com/watch?v=TISMidxdZoc)
 - [Joe Rogan trolling Lex Fridman](https://www.youtube.com/watch?v=cYPz_kisGws)
-- [Peter Wang: Python and the Source Code of Humans, Computers, and Reality | Lex Fridman Podcast #250](https://www.youtube.com/watch?v=X0-SXS6zdEQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
