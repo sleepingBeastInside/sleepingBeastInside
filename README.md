@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Nationalism Debate: Yaron Brook and Yoram Hazony | Lex Fridman Podcast #256](https://www.youtube.com/watch?v=Q24cpnHzx8I)
 - [GSP teaches Lex Fridman how to street fight](https://www.youtube.com/watch?v=3MoiMCWhGuw)
 - [Mark Normand: Comedy! | Lex Fridman Podcast #255](https://www.youtube.com/watch?v=WzsivT_Ap1w)
 - [Jay Bhattacharya: The Case Against Lockdowns | Lex Fridman Podcast #254](https://www.youtube.com/watch?v=oIOGUYOPAsA)
 - [Elon Musk recap | Live Q&amp;A with Lex Fridman](https://www.youtube.com/watch?v=1ltt_L8KGXY)
-- [Michael Malice: New Year&#39;s Special | Lex Fridman Podcast #253](https://www.youtube.com/watch?v=B2tXN7ZnSfU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
