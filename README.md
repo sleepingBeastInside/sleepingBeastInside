@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Joe Rogan gifts Lex Fridman his favorite watch](https://www.youtube.com/watch?v=mQ7ECcjXazw)
 - [Garry Nolan: UFOs and Aliens | Lex Fridman Podcast #262](https://www.youtube.com/watch?v=uTCc2-1tbBQ)
 - [Philip Goff: Consciousness, Panpsychism, and the Philosophy of Mind | Lex Fridman Podcast #261](https://www.youtube.com/watch?v=BCdV6BMMpOo)
 - [Georges St-Pierre, John Danaher &amp; Gordon Ryan: The Greatest of All Time | Lex Fridman Podcast #260](https://www.youtube.com/watch?v=KdmDtqB46Jc)
 - [Thomas Tull: From Batman Dark Knight Trilogy to AI and The Rolling Stones | Lex Fridman Podcast #259](https://www.youtube.com/watch?v=3Z7WimACqG8)
-- [Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning | Lex Fridman Podcast #258](https://www.youtube.com/watch?v=SGzMElJ11Cc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
