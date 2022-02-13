@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tim Urban: Elon Musk, Neuralink, AI, Aliens, and the Future of Humanity | Lex Fridman Podcast #264](https://www.youtube.com/watch?v=0Jd7fJgFkPU)
 - [John Abramson: Big Pharma | Lex Fridman Podcast #263](https://www.youtube.com/watch?v=arrokG3wCdE)
 - [Joe Rogan gifts Lex Fridman his favorite watch](https://www.youtube.com/watch?v=mQ7ECcjXazw)
 - [Garry Nolan: UFOs and Aliens | Lex Fridman Podcast #262](https://www.youtube.com/watch?v=uTCc2-1tbBQ)
 - [Philip Goff: Consciousness, Panpsychism, and the Philosophy of Mind | Lex Fridman Podcast #261](https://www.youtube.com/watch?v=BCdV6BMMpOo)
-- [Georges St-Pierre, John Danaher &amp; Gordon Ryan: The Greatest of All Time | Lex Fridman Podcast #260](https://www.youtube.com/watch?v=KdmDtqB46Jc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
