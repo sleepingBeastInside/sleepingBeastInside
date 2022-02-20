@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Nicole Perlroth: Cybersecurity and the Weapons of Cyberwar | Lex Fridman Podcast #266](https://www.youtube.com/watch?v=hy2G3PhGm-g)
 - [Devon Larratt vs Lex Fridman: How to arm wrestle](https://www.youtube.com/watch?v=iLzO5x_1PNc)
 - [Devon Larratt: Arm Wrestling | Lex Fridman Podcast #265](https://www.youtube.com/watch?v=nvBEXXnNaNQ)
 - [Tim Urban: Elon Musk, Neuralink, AI, Aliens, and the Future of Humanity | Lex Fridman Podcast #264](https://www.youtube.com/watch?v=0Jd7fJgFkPU)
 - [John Abramson: Big Pharma | Lex Fridman Podcast #263](https://www.youtube.com/watch?v=arrokG3wCdE)
-- [Joe Rogan gifts Lex Fridman his favorite watch](https://www.youtube.com/watch?v=mQ7ECcjXazw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
