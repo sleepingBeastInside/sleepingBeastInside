@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tell Lex Fridman your story - Ukraine and Russia](https://www.youtube.com/watch?v=-59zJzx64xA)
 - [Robert Proctor: Nazi Science and Ideology | Lex Fridman Podcast #268](https://www.youtube.com/watch?v=Y3VBCWIDEzk)
 - [Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse | Lex Fridman Podcast #267](https://www.youtube.com/watch?v=5zOHSysMmH0)
 - [Nicole Perlroth: Cybersecurity and the Weapons of Cyberwar | Lex Fridman Podcast #266](https://www.youtube.com/watch?v=hy2G3PhGm-g)
 - [Devon Larratt vs Lex Fridman: How to arm wrestle](https://www.youtube.com/watch?v=iLzO5x_1PNc)
-- [Devon Larratt: Arm Wrestling | Lex Fridman Podcast #265](https://www.youtube.com/watch?v=nvBEXXnNaNQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
