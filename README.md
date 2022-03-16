@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [David Wolpe: Judaism | Lex Fridman Podcast #270](https://www.youtube.com/watch?v=urdNsyZBqhQ)
 - [Lee Cronin: Origin of Life, Aliens, Complexity, and Consciousness | Lex Fridman Podcast #269](https://www.youtube.com/watch?v=ZecQ64l-gKM)
 - [Tell Lex Fridman your story - Ukraine and Russia](https://www.youtube.com/watch?v=-59zJzx64xA)
 - [Robert Proctor: Nazi Science and Ideology | Lex Fridman Podcast #268](https://www.youtube.com/watch?v=Y3VBCWIDEzk)
 - [Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse | Lex Fridman Podcast #267](https://www.youtube.com/watch?v=5zOHSysMmH0)
-- [Nicole Perlroth: Cybersecurity and the Weapons of Cyberwar | Lex Fridman Podcast #266](https://www.youtube.com/watch?v=hy2G3PhGm-g)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
