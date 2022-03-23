@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Ariel Ekblaw: Space Colonization and Self-Assembling Space Megastructures | Lex Fridman Podcast #271](https://www.youtube.com/watch?v=KW8Vjs84Fxg)
 - [Lex Fridman interviews a racoon](https://www.youtube.com/watch?v=JVPjFDRlZf4)
 - [David Wolpe: Judaism | Lex Fridman Podcast #270](https://www.youtube.com/watch?v=urdNsyZBqhQ)
 - [Lee Cronin: Origin of Life, Aliens, Complexity, and Consciousness | Lex Fridman Podcast #269](https://www.youtube.com/watch?v=ZecQ64l-gKM)
 - [Tell Lex Fridman your story - Ukraine and Russia](https://www.youtube.com/watch?v=-59zJzx64xA)
-- [Robert Proctor: Nazi Science and Ideology | Lex Fridman Podcast #268](https://www.youtube.com/watch?v=Y3VBCWIDEzk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
