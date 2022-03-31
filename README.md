@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [RZA and Lex Fridman play chess](https://www.youtube.com/watch?v=FxHvCbGfHvU)
 - [Brett Johnson: US Most Wanted Cybercriminal | Lex Fridman Podcast #272](https://www.youtube.com/watch?v=cC1LFC0KFSw)
 - [Ariel Ekblaw: Space Colonization and Self-Assembling Space Megastructures | Lex Fridman Podcast #271](https://www.youtube.com/watch?v=KW8Vjs84Fxg)
 - [Lex Fridman interviews a racoon](https://www.youtube.com/watch?v=JVPjFDRlZf4)
 - [David Wolpe: Judaism | Lex Fridman Podcast #270](https://www.youtube.com/watch?v=urdNsyZBqhQ)
-- [Lee Cronin: Origin of Life, Aliens, Complexity, and Consciousness | Lex Fridman Podcast #269](https://www.youtube.com/watch?v=ZecQ64l-gKM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
