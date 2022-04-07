@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Karl Deisseroth: Depression, Schizophrenia, and Psychiatry | Lex Fridman Podcast #274](https://www.youtube.com/watch?v=OaeYUm06in0)
 - [Chris Blattman: War and Violence | Lex Fridman Podcast #273](https://www.youtube.com/watch?v=DbXjoXnIxQo)
 - [RZA and Lex Fridman play chess](https://www.youtube.com/watch?v=FxHvCbGfHvU)
 - [Brett Johnson: US Most Wanted Cybercriminal | Lex Fridman Podcast #272](https://www.youtube.com/watch?v=cC1LFC0KFSw)
 - [Ariel Ekblaw: Space Colonization and Self-Assembling Space Megastructures | Lex Fridman Podcast #271](https://www.youtube.com/watch?v=KW8Vjs84Fxg)
-- [Lex Fridman interviews a racoon](https://www.youtube.com/watch?v=JVPjFDRlZf4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
