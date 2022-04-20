@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Skye Fitzgerald: Hunger, War, and Human Suffering | Lex Fridman Podcast #278](https://www.youtube.com/watch?v=dHTgffkpeYo)
 - [Andrew Huberman: Focus, Stress, Relationships, and Friendship | Lex Fridman Podcast #277](https://www.youtube.com/watch?v=lvh3g7eszVQ)
 - [Michael Saylor: Bitcoin, Inflation, and the Future of Money | Lex Fridman Podcast #276](https://www.youtube.com/watch?v=mC43pZkpTec)
 - [Rick Rubin: Legendary Music Producer | Lex Fridman Podcast #275](https://www.youtube.com/watch?v=H_szemxPcTI)
 - [Lex Fridman at Tesla Giga Texas grand opening](https://www.youtube.com/watch?v=mgL4nID44pI)
-- [Karl Deisseroth: Depression, Schizophrenia, and Psychiatry | Lex Fridman Podcast #274](https://www.youtube.com/watch?v=OaeYUm06in0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
