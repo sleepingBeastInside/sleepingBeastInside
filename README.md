@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Lex Fridman interviews a goose](https://www.youtube.com/watch?v=QqRV5FD8ob4)
 - [Grimes: Music, AI, and the Future of Humanity | Lex Fridman Podcast #281](https://www.youtube.com/watch?v=KOwm7GUjcg8)
 - [Cristiano Amon: Qualcomm CEO | Lex Fridman Podcast #280](https://www.youtube.com/watch?v=KMgPxVnKLSk)
 - [Alien Debate: Sara Walker and Lee Cronin | Lex Fridman Podcast #279](https://www.youtube.com/watch?v=SFxIazwNP_0)
 - [Skye Fitzgerald: Hunger, War, and Human Suffering | Lex Fridman Podcast #278](https://www.youtube.com/watch?v=dHTgffkpeYo)
-- [Andrew Huberman: Focus, Stress, Relationships, and Friendship | Lex Fridman Podcast #277](https://www.youtube.com/watch?v=lvh3g7eszVQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
