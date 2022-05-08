@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Chris Mason: Space Travel, Colonization, and Long-Term Survival in Space | Lex Fridman Podcast #283](https://www.youtube.com/watch?v=1C2tPFCGL1U)
 - [David Buss: Sex, Dating, Relationships, and Sex Differences | Lex Fridman Podcast #282](https://www.youtube.com/watch?v=sndW9hzX-wA)
 - [Lex Fridman interviews a goose](https://www.youtube.com/watch?v=QqRV5FD8ob4)
 - [Grimes: Music, AI, and the Future of Humanity | Lex Fridman Podcast #281](https://www.youtube.com/watch?v=KOwm7GUjcg8)
 - [Cristiano Amon: Qualcomm CEO | Lex Fridman Podcast #280](https://www.youtube.com/watch?v=KMgPxVnKLSk)
-- [Alien Debate: Sara Walker and Lee Cronin | Lex Fridman Podcast #279](https://www.youtube.com/watch?v=SFxIazwNP_0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
