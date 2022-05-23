@@ -58,7 +58,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Sarma Melngailis: Bad Vegan | Lex Fridman Podcast #288](https://www.youtube.com/watch?v=iZjby1LkTWQ)
+- [Sarma Melngailis: Bad Vegan, Fraud, Prison, and Sociopathy | Lex Fridman Podcast #288](https://www.youtube.com/watch?v=iZjby1LkTWQ)
 - [Bobby Lee: Comedy, Skyrim, Sex Robots, Love, Fame, and Power | Lex Fridman Podcast #287](https://www.youtube.com/watch?v=tOTenjh_8hw)
 - [Oliver Stone: Vladimir Putin and War in Ukraine | Lex Fridman Podcast #286](https://www.youtube.com/watch?v=ygAqYC8JOQI)
 - [Glenn Loury: Race, Racism, Identity Politics, and Cancel Culture | Lex Fridman Podcast #285](https://www.youtube.com/watch?v=YbJZnShMQAo)
