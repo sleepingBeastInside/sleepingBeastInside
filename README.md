@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Stephen Kotkin: Putin, Stalin, Hitler, Zelenskyy, and War in Ukraine | Lex Fridman Podcast #289](https://www.youtube.com/watch?v=2a7CDKqWcZ0)
 - [Sarma Melngailis: Bad Vegan, Fraud, Prison, and Sociopathy | Lex Fridman Podcast #288](https://www.youtube.com/watch?v=iZjby1LkTWQ)
 - [Bobby Lee: Comedy, Skyrim, Sex Robots, Love, Fame, and Power | Lex Fridman Podcast #287](https://www.youtube.com/watch?v=tOTenjh_8hw)
 - [Oliver Stone: Vladimir Putin and War in Ukraine | Lex Fridman Podcast #286](https://www.youtube.com/watch?v=ygAqYC8JOQI)
 - [Glenn Loury: Race, Racism, Identity Politics, and Cancel Culture | Lex Fridman Podcast #285](https://www.youtube.com/watch?v=YbJZnShMQAo)
-- [Saifedean Ammous: Bitcoin, Anarchy, and Austrian Economics | Lex Fridman Podcast #284](https://www.youtube.com/watch?v=gp4U5aH_T6A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
