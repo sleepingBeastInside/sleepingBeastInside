@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Jonathan Haidt: The Case Against Social Media | Lex Fridman Podcast #291](https://www.youtube.com/watch?v=f0un-l1L8Zw)
 - [Dan Reynolds: Imagine Dragons | Lex Fridman Podcast #290](https://www.youtube.com/watch?v=jvGZkf87aCs)
 - [Stephen Kotkin: Putin, Stalin, Hitler, Zelenskyy, and War in Ukraine | Lex Fridman Podcast #289](https://www.youtube.com/watch?v=2a7CDKqWcZ0)
 - [Sarma Melngailis: Bad Vegan, Fraud, Prison, and Sociopathy | Lex Fridman Podcast #288](https://www.youtube.com/watch?v=iZjby1LkTWQ)
 - [Bobby Lee: Comedy, Skyrim, Sex Robots, Love, Fame, and Power | Lex Fridman Podcast #287](https://www.youtube.com/watch?v=tOTenjh_8hw)
-- [Oliver Stone: Vladimir Putin and War in Ukraine | Lex Fridman Podcast #286](https://www.youtube.com/watch?v=ygAqYC8JOQI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
