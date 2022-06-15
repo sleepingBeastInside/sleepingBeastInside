@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tony Fadell: iPhone, iPod, and Nest | Lex Fridman Podcast #294](https://www.youtube.com/watch?v=4oDZyOf6CW4)
 - [Donald Hoffman: Reality is an Illusion - How Evolution Hid the Truth | Lex Fridman Podcast #293](https://www.youtube.com/watch?v=reYdQYZ9Rj4)
 - [Robin Hanson: Alien Civilizations, UFOs, and the Future of Humanity | Lex Fridman Podcast #292](https://www.youtube.com/watch?v=KBZP4rLk6bk)
 - [Jonathan Haidt: The Case Against Social Media | Lex Fridman Podcast #291](https://www.youtube.com/watch?v=f0un-l1L8Zw)
 - [Dan Reynolds: Imagine Dragons | Lex Fridman Podcast #290](https://www.youtube.com/watch?v=jvGZkf87aCs)
-- [Stephen Kotkin: Putin, Stalin, Hitler, Zelenskyy, and War in Ukraine | Lex Fridman Podcast #289](https://www.youtube.com/watch?v=2a7CDKqWcZ0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
