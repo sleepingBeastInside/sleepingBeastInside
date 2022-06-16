@@ -58,7 +58,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Tony Fadell: iPhone, iPod, and Nest | Lex Fridman Podcast #294](https://www.youtube.com/watch?v=4oDZyOf6CW4)
+- [Tony Fadell: iPhone, iPod, Nest, Steve Jobs, Design, and Engineering | Lex Fridman Podcast #294](https://www.youtube.com/watch?v=4oDZyOf6CW4)
 - [Donald Hoffman: Reality is an Illusion - How Evolution Hid the Truth | Lex Fridman Podcast #293](https://www.youtube.com/watch?v=reYdQYZ9Rj4)
 - [Robin Hanson: Alien Civilizations, UFOs, and the Future of Humanity | Lex Fridman Podcast #292](https://www.youtube.com/watch?v=KBZP4rLk6bk)
 - [Jonathan Haidt: The Case Against Social Media | Lex Fridman Podcast #291](https://www.youtube.com/watch?v=f0un-l1L8Zw)
