@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Jonathan Reisman: The Human Body - From Sex &amp; Sperm to Hands &amp; Heart | Lex Fridman Podcast #297](https://www.youtube.com/watch?v=XOPO9J7DIXw)
 - [Douglas Murray: Racism, Marxism, and the War on the West | Lex Fridman Podcast #296](https://www.youtube.com/watch?v=EG7I6Bt_NZY)
 - [Richard Wolff: Marxism and Communism | Lex Fridman Podcast #295](https://www.youtube.com/watch?v=o0Bi-q89j5Y)
 - [Tony Fadell: iPhone, iPod, Nest, Steve Jobs, Design, and Engineering | Lex Fridman Podcast #294](https://www.youtube.com/watch?v=4oDZyOf6CW4)
 - [Donald Hoffman: Reality is an Illusion - How Evolution Hid the Truth | Lex Fridman Podcast #293](https://www.youtube.com/watch?v=reYdQYZ9Rj4)
-- [Robin Hanson: Alien Civilizations, UFOs, and the Future of Humanity | Lex Fridman Podcast #292](https://www.youtube.com/watch?v=KBZP4rLk6bk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
