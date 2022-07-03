@@ -74,6 +74,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ALGEBRA EQUATION](https://onicodex.blogspot.com/2022/07/algebra-equation.html)
 - [DEMO VIDEO OF MVC PATTERN](https://onicodex.blogspot.com/2021/03/mvcpatternusingjava.html)
 - [OPENING AND PURPOSE](https://onicodex.blogspot.com/2018/11/opening-and-purpose.html)
 <!-- BLOG-POST-LIST:END -->
