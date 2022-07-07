@@ -59,7 +59,7 @@
 
 <!-- YOUTUBE:START -->
 - [Joe Rogan: Comedy, Controversy, Aliens, UFOs, Putin, CIA, and Freedom | Lex Fridman Podcast #300](https://www.youtube.com/watch?v=gk4tEO4jDUM)
-- [Demis Hassabis: DeepMind - AI, Superintelligence &amp; the Future of Humanity | Lex Fridman Podcast #299](https://www.youtube.com/watch?v=Gfr50f6ZBvo)
+- [Demis Hassabis: DeepMind | Lex Fridman Podcast #299](https://www.youtube.com/watch?v=Gfr50f6ZBvo)
 - [Susan Cain: The Power of Introverts and Loneliness | Lex Fridman Podcast #298](https://www.youtube.com/watch?v=j4PEu4sVD40)
 - [DeepMind cube](https://www.youtube.com/watch?v=w8267OmP22E)
 - [Jonathan Reisman: The Human Body - From Sex &amp; Sperm to Hands &amp; Heart | Lex Fridman Podcast #297](https://www.youtube.com/watch?v=XOPO9J7DIXw)
