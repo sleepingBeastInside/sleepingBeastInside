@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Bishop Robert Barron: Christianity and the Catholic Church | Lex Fridman Podcast #304](https://www.youtube.com/watch?v=WgytXF0SPh0)
 - [Steve Keen: Marxism, Capitalism, and Economics | Lex Fridman Podcast #303](https://www.youtube.com/watch?v=1XGiTDWfdpM)
 - [Richard Haier: IQ Tests, Human Intelligence, and Group Differences | Lex Fridman Podcast #302](https://www.youtube.com/watch?v=hppbxV9C63g)
 - [Lex Fridman plays chess with Demis Hassabis](https://www.youtube.com/watch?v=UbkB-vhjhHA)
 - [Jack Barsky: KGB Spy | Lex Fridman Podcast #301](https://www.youtube.com/watch?v=dSVLjAdo8UA)
-- [Joe Rogan: Comedy, Controversy, Aliens, UFOs, Putin, CIA, and Freedom | Lex Fridman Podcast #300](https://www.youtube.com/watch?v=gk4tEO4jDUM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
