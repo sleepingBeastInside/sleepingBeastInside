@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Oriol Vinyals: Deep Learning and Artificial General Intelligence | Lex Fridman Podcast #306](https://www.youtube.com/watch?v=aGBLRlLe7X8)
 - [Martin Rees: Black Holes, Alien Life, Dark Matter, and the Big Bang | Lex Fridman Podcast #305](https://www.youtube.com/watch?v=50r-5ULcWgY)
 - [Bishop Robert Barron: Christianity and the Catholic Church | Lex Fridman Podcast #304](https://www.youtube.com/watch?v=WgytXF0SPh0)
 - [Steve Keen: Marxism, Capitalism, and Economics | Lex Fridman Podcast #303](https://www.youtube.com/watch?v=1XGiTDWfdpM)
 - [Richard Haier: IQ Tests, Human Intelligence, and Group Differences | Lex Fridman Podcast #302](https://www.youtube.com/watch?v=hppbxV9C63g)
-- [Lex Fridman plays chess with Demis Hassabis](https://www.youtube.com/watch?v=UbkB-vhjhHA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
