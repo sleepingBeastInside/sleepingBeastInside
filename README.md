@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [John Carmack: Doom, Quake, VR, AGI, Programming, Video Games, and Rockets | Lex Fridman Podcast #309](https://www.youtube.com/watch?v=I845O57ZSy4)
 - [Ryan Graves: UFOs, Fighter Jets, and Aliens | Lex Fridman Podcast #308](https://www.youtube.com/watch?v=qLDp-aYnR1Y)
 - [Brian Armstrong: Coinbase, Cryptocurrency, and Government Regulation | Lex Fridman Podcast #307](https://www.youtube.com/watch?v=VBPTFlpv31k)
 - [Oriol Vinyals: Deep Learning and Artificial General Intelligence | Lex Fridman Podcast #306](https://www.youtube.com/watch?v=aGBLRlLe7X8)
 - [Martin Rees: Black Holes, Alien Life, Dark Matter, and the Big Bang | Lex Fridman Podcast #305](https://www.youtube.com/watch?v=50r-5ULcWgY)
-- [Bishop Robert Barron: Christianity and the Catholic Church | Lex Fridman Podcast #304](https://www.youtube.com/watch?v=WgytXF0SPh0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
