@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Magatte Wade: Africa, Capitalism, Communism, and the Future of Humanity | Lex Fridman Podcast #311](https://www.youtube.com/watch?v=Q6tDV3BhrcM)
 - [Andrew Bustamante: CIA Spy | Lex Fridman Podcast #310](https://www.youtube.com/watch?v=T3FC7qIAGZk)
 - [John Carmack: Doom, Quake, VR, AGI, Programming, Video Games, and Rockets | Lex Fridman Podcast #309](https://www.youtube.com/watch?v=I845O57ZSy4)
 - [Ryan Graves: UFOs, Fighter Jets, and Aliens | Lex Fridman Podcast #308](https://www.youtube.com/watch?v=qLDp-aYnR1Y)
 - [Brian Armstrong: Coinbase, Cryptocurrency, and Government Regulation | Lex Fridman Podcast #307](https://www.youtube.com/watch?v=VBPTFlpv31k)
-- [Oriol Vinyals: Deep Learning and Artificial General Intelligence | Lex Fridman Podcast #306](https://www.youtube.com/watch?v=aGBLRlLe7X8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
