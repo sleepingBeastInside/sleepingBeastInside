@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Noam Chomsky: Putin, Ukraine, China, and Nuclear War | Lex Fridman Podcast #316](https://www.youtube.com/watch?v=7uHGlfeCBbE)
 - [Magnus Carlsen: Greatest Chess Player of All Time | Lex Fridman Podcast #315](https://www.youtube.com/watch?v=0ZO28NtkwwQ)
 - [Liv Boeree: Poker, Game Theory, AI, Simulation, Aliens &amp; Existential Risk | Lex Fridman Podcast #314](https://www.youtube.com/watch?v=eF-E40pxxbI)
 - [Jordan Peterson: Life, Death, Power, Fame, and Meaning | Lex Fridman Podcast #313](https://www.youtube.com/watch?v=sY8aFSY2zv4)
 - [Duncan Trussell: Comedy, Sentient Robots, Suffering, Love &amp; Burning Man | Lex Fridman Podcast #312](https://www.youtube.com/watch?v=jdIyNMkusLE)
-- [Magatte Wade: Africa, Capitalism, Communism, and the Future of Humanity | Lex Fridman Podcast #311](https://www.youtube.com/watch?v=Q6tDV3BhrcM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
