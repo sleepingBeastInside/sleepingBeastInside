@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Botez Sisters: Chess, Streaming, and Fame | Lex Fridman Podcast #319](https://www.youtube.com/watch?v=srUlKNLZTas)
 - [Nick Lane: Origin of Life, Evolution, Aliens, Biology, and Consciousness | Lex Fridman Podcast #318](https://www.youtube.com/watch?v=tOtdJcco3YM)
 - [John Vervaeke: Meaning Crisis, Atheism, Religion &amp; the Search for Wisdom | Lex Fridman Podcast #317](https://www.youtube.com/watch?v=yImlXr5Tr8g)
 - [Noam Chomsky: Putin, Ukraine, China, and Nuclear War | Lex Fridman Podcast #316](https://www.youtube.com/watch?v=7uHGlfeCBbE)
 - [Magnus Carlsen: Greatest Chess Player of All Time | Lex Fridman Podcast #315](https://www.youtube.com/watch?v=0ZO28NtkwwQ)
-- [Liv Boeree: Poker, Game Theory, AI, Simulation, Aliens &amp; Existential Risk | Lex Fridman Podcast #314](https://www.youtube.com/watch?v=eF-E40pxxbI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
