@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Rana el Kaliouby: Emotion AI, Social Robots, and Self-Driving Cars | Lex Fridman Podcast #322](https://www.youtube.com/watch?v=36_rM7wpN5A)
 - [Ray Kurzweil: Singularity, Superintelligence, and Immortality | Lex Fridman Podcast #321](https://www.youtube.com/watch?v=ykY69lSpDdo)
 - [Christopher Capozzola: World War I, Ideology, Propaganda, and Politics | Lex Fridman Podcast #320](https://www.youtube.com/watch?v=SK4kMPmgKW0)
 - [Botez Sisters: Chess, Streaming, and Fame | Lex Fridman Podcast #319](https://www.youtube.com/watch?v=srUlKNLZTas)
 - [Nick Lane: Origin of Life, Evolution, Aliens, Biology, and Consciousness | Lex Fridman Podcast #318](https://www.youtube.com/watch?v=tOtdJcco3YM)
-- [John Vervaeke: Meaning Crisis, Atheism, Religion &amp; the Search for Wisdom | Lex Fridman Podcast #317](https://www.youtube.com/watch?v=yImlXr5Tr8g)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
