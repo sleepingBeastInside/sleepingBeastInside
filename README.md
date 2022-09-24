@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Will Sasso: Comedy, MADtv, AI, Friendship, Madness, and Pro Wrestling | Lex Fridman Podcast #323](https://www.youtube.com/watch?v=xewD1apJNhw)
 - [Joe Rogan and Lex Fridman at UFC 279](https://www.youtube.com/watch?v=NffaKHVk-yE)
 - [Rana el Kaliouby: Emotion AI, Social Robots, and Self-Driving Cars | Lex Fridman Podcast #322](https://www.youtube.com/watch?v=36_rM7wpN5A)
 - [Ray Kurzweil: Singularity, Superintelligence, and Immortality | Lex Fridman Podcast #321](https://www.youtube.com/watch?v=ykY69lSpDdo)
 - [Christopher Capozzola: World War I, Ideology, Propaganda, and Politics | Lex Fridman Podcast #320](https://www.youtube.com/watch?v=SK4kMPmgKW0)
-- [Botez Sisters: Chess, Streaming, and Fame | Lex Fridman Podcast #319](https://www.youtube.com/watch?v=srUlKNLZTas)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
