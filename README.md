@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Michael Levin: Biology, Life, Aliens, Evolution, Embryogenesis &amp; Xenobots | Lex Fridman Podcast #325](https://www.youtube.com/watch?v=p3lsYlod5OU)
 - [Daniel Negreanu: Poker | Lex Fridman Podcast #324](https://www.youtube.com/watch?v=rKnoNfajUgM)
 - [Will Sasso: Comedy, MADtv, AI, Friendship, Madness, and Pro Wrestling | Lex Fridman Podcast #323](https://www.youtube.com/watch?v=xewD1apJNhw)
 - [Joe Rogan and Lex Fridman at UFC 279](https://www.youtube.com/watch?v=NffaKHVk-yE)
 - [Rana el Kaliouby: Emotion AI, Social Robots, and Self-Driving Cars | Lex Fridman Podcast #322](https://www.youtube.com/watch?v=36_rM7wpN5A)
-- [Ray Kurzweil: Singularity, Superintelligence, and Immortality | Lex Fridman Podcast #321](https://www.youtube.com/watch?v=ykY69lSpDdo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
