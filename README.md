@@ -58,7 +58,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [John Danaher: Submission Grappling, ADCC, Animal Combat, and Knives | Lex Fridman Podcast #328](https://www.youtube.com/watch?v=iZRbD7q1n-U)
+- [John Danaher: Grappling, Jiu Jitsu, ADCC, Animal Combat, and Knives | Lex Fridman Podcast #328](https://www.youtube.com/watch?v=iZRbD7q1n-U)
 - [GothamChess: Hans Niemann, Magnus Carlsen, Cheating Scandal &amp; Chess Bots | Lex Fridman Podcast #327](https://www.youtube.com/watch?v=iSMpTmibeDw)
 - [Annaka Harris: Free Will, Consciousness, and the Nature of Reality | Lex Fridman Podcast #326](https://www.youtube.com/watch?v=q6zEzZCtkXw)
 - [Michael Levin: Biology, Life, Aliens, Evolution, Embryogenesis &amp; Xenobots | Lex Fridman Podcast #325](https://www.youtube.com/watch?v=p3lsYlod5OU)
