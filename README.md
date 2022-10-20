@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Balaji Srinivasan: How to Fix Government, Twitter, Science, and the FDA | Lex Fridman Podcast #331](https://www.youtube.com/watch?v=VeH7qKZr0WI)
 - [Hikaru Nakamura: Chess, Magnus, Kasparov, and the Psychology of Greatness | Lex Fridman Podcast #330](https://www.youtube.com/watch?v=oJNvxYEcVAY)
 - [Kate Darling: Social Robots, Ethics, Privacy and the Future of MIT | Lex Fridman Podcast #329](https://www.youtube.com/watch?v=ZFntEFXKDHM)
 - [John Danaher: Grappling, Jiu Jitsu, ADCC, and Animal Combat | Lex Fridman Podcast #328](https://www.youtube.com/watch?v=iZRbD7q1n-U)
 - [GothamChess: Hans Niemann, Magnus Carlsen, Cheating Scandal &amp; Chess Bots | Lex Fridman Podcast #327](https://www.youtube.com/watch?v=iSMpTmibeDw)
-- [Annaka Harris: Free Will, Consciousness, and the Nature of Reality | Lex Fridman Podcast #326](https://www.youtube.com/watch?v=q6zEzZCtkXw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
