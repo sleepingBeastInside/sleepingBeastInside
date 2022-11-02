@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Abbas Amanat: Iran Protests, Mahsa Amini, History, CIA &amp; Nuclear Weapons | Lex Fridman Podcast #334](https://www.youtube.com/watch?v=OYsYgzzsdT0)
 - [Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast #333](https://www.youtube.com/watch?v=cdiD-9MMpb0)
 - [Kanye &#39;Ye&#39; West Interview | Lex Fridman Podcast #332](https://www.youtube.com/watch?v=4AWLcxTGZPA)
 - [Balaji Srinivasan: How to Fix Government, Twitter, Science, and the FDA | Lex Fridman Podcast #331](https://www.youtube.com/watch?v=VeH7qKZr0WI)
 - [Hikaru Nakamura: Chess, Magnus, Kasparov, and the Psychology of Greatness | Lex Fridman Podcast #330](https://www.youtube.com/watch?v=oJNvxYEcVAY)
-- [Kate Darling: Social Robots, Ethics, Privacy and the Future of MIT | Lex Fridman Podcast #329](https://www.youtube.com/watch?v=ZFntEFXKDHM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
