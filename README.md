@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Ben Shapiro: Politics, Kanye, Trump, Biden, Hitler, Extremism, and War | Lex Fridman Podcast #336](https://www.youtube.com/watch?v=AF8DOS4C2KM)
 - [Fiona Hill: Vladimir Putin and Donald Trump | Lex Fridman Podcast #335](https://www.youtube.com/watch?v=vNhSCF9i8Qs)
 - [Abbas Amanat: Iran Protests, Mahsa Amini, History, CIA &amp; Nuclear Weapons | Lex Fridman Podcast #334](https://www.youtube.com/watch?v=OYsYgzzsdT0)
 - [Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast #333](https://www.youtube.com/watch?v=cdiD-9MMpb0)
 - [Kanye &#39;Ye&#39; West Interview | Lex Fridman Podcast #332](https://www.youtube.com/watch?v=4AWLcxTGZPA)
-- [Balaji Srinivasan: How to Fix Government, Twitter, Science, and the FDA | Lex Fridman Podcast #331](https://www.youtube.com/watch?v=VeH7qKZr0WI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
