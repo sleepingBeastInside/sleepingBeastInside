@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Chamath Palihapitiya: Money, Success, Startups, Energy, Poker &amp; Happiness | Lex Fridman Podcast #338](https://www.youtube.com/watch?v=kFQUDCgMjRc)
 - [Destiny: Politics, Free Speech, Controversy, Sex, War, and Relationships | Lex Fridman Podcast #337](https://www.youtube.com/watch?v=bqeuFiAUU4o)
 - [Ben Shapiro: Politics, Kanye, Trump, Biden, Hitler, Extremism, and War | Lex Fridman Podcast #336](https://www.youtube.com/watch?v=AF8DOS4C2KM)
 - [Fiona Hill: Vladimir Putin and Donald Trump | Lex Fridman Podcast #335](https://www.youtube.com/watch?v=vNhSCF9i8Qs)
 - [Abbas Amanat: Iran Protests, Mahsa Amini, History, CIA &amp; Nuclear Weapons | Lex Fridman Podcast #334](https://www.youtube.com/watch?v=OYsYgzzsdT0)
-- [Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast #333](https://www.youtube.com/watch?v=cdiD-9MMpb0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
