@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Chris Tarbell: FBI Agent Who Took Down Silk Road | Lex Fridman Podcast #340](https://www.youtube.com/watch?v=4KiO8GRgwDk)
 - [Climate Change Debate: Bjørn Lomborg and Andrew Revkin | Lex Fridman Podcast #339](https://www.youtube.com/watch?v=5Gk9gIpGvSE)
 - [Chamath Palihapitiya: Money, Success, Startups, Energy, Poker &amp; Happiness | Lex Fridman Podcast #338](https://www.youtube.com/watch?v=kFQUDCgMjRc)
 - [Destiny: Politics, Free Speech, Controversy, Sex, War, and Relationships | Lex Fridman Podcast #337](https://www.youtube.com/watch?v=bqeuFiAUU4o)
 - [Ben Shapiro: Politics, Kanye, Trump, Biden, Hitler, Extremism, and War | Lex Fridman Podcast #336](https://www.youtube.com/watch?v=AF8DOS4C2KM)
-- [Fiona Hill: Vladimir Putin and Donald Trump | Lex Fridman Podcast #335](https://www.youtube.com/watch?v=vNhSCF9i8Qs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
