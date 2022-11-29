@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Todd Howard: Skyrim, Elder Scrolls 6, Fallout, and Starfield | Lex Fridman Podcast #342](https://www.youtube.com/watch?v=H9AAnV59ddE)
 - [Guido van Rossum: Python and the Future of Programming | Lex Fridman Podcast #341](https://www.youtube.com/watch?v=-DVyjdw4t9I)
 - [Chris Tarbell: FBI Agent Who Took Down Silk Road | Lex Fridman Podcast #340](https://www.youtube.com/watch?v=4KiO8GRgwDk)
 - [Climate Change Debate: Bjørn Lomborg and Andrew Revkin | Lex Fridman Podcast #339](https://www.youtube.com/watch?v=5Gk9gIpGvSE)
 - [Chamath Palihapitiya: Money, Success, Startups, Energy, Poker &amp; Happiness | Lex Fridman Podcast #338](https://www.youtube.com/watch?v=kFQUDCgMjRc)
-- [Destiny: Politics, Free Speech, Controversy, Sex, War, and Relationships | Lex Fridman Podcast #337](https://www.youtube.com/watch?v=bqeuFiAUU4o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
