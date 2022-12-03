@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Roger Gracie: Greatest Jiu Jitsu Competitor of All Time | Lex Fridman Podcast #343](https://www.youtube.com/watch?v=FhfmGM6hswI)
 - [Joe Rogan recommends Lex Fridman: Neil deGrasse Tyson is having none of it](https://www.youtube.com/watch?v=jHGuXMzaARY)
 - [Todd Howard: Skyrim, Elder Scrolls 6, Fallout, and Starfield | Lex Fridman Podcast #342](https://www.youtube.com/watch?v=H9AAnV59ddE)
 - [Guido van Rossum: Python and the Future of Programming | Lex Fridman Podcast #341](https://www.youtube.com/watch?v=-DVyjdw4t9I)
 - [Chris Tarbell: FBI Agent Who Took Down Silk Road | Lex Fridman Podcast #340](https://www.youtube.com/watch?v=4KiO8GRgwDk)
-- [Climate Change Debate: Bjørn Lomborg and Andrew Revkin | Lex Fridman Podcast #339](https://www.youtube.com/watch?v=5Gk9gIpGvSE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
