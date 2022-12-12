@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Ed Calderon: Mexican Drug Cartels | Lex Fridman Podcast #346](https://www.youtube.com/watch?v=9PIOoJMMptA)
 - [Coffeezilla: SBF, FTX, Fraud, Scams, Fake Gurus, Money, Fame, and Power | Lex Fridman Podcast #345](https://www.youtube.com/watch?v=hi9Rf0oLdHk)
 - [Noam Brown: AI vs Humans in Poker and Games of Strategic Negotiation | Lex Fridman Podcast #344](https://www.youtube.com/watch?v=2oHH4aClJQs)
 - [Roger Gracie: Greatest Jiu Jitsu Competitor of All Time | Lex Fridman Podcast #343](https://www.youtube.com/watch?v=FhfmGM6hswI)
 - [Joe Rogan recommends Lex Fridman: Neil deGrasse Tyson is having none of it](https://www.youtube.com/watch?v=jHGuXMzaARY)
-- [Todd Howard: Skyrim, Elder Scrolls 6, Fallout, and Starfield | Lex Fridman Podcast #342](https://www.youtube.com/watch?v=H9AAnV59ddE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
