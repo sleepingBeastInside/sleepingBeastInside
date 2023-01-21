@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dennis Whyte: Nuclear Fusion and the Future of Energy | Lex Fridman Podcast #353](https://www.youtube.com/watch?v=aJoRMFWn2Jk)
 - [Omar Suleiman: Islam | Lex Fridman Podcast #352](https://www.youtube.com/watch?v=BOKCNUqbpH0)
 - [MrBeast: Future of YouTube, Twitter, TikTok, and Instagram | Lex Fridman Podcast #351](https://www.youtube.com/watch?v=Z3_PwvvfxIU)
 - [1984 by George Orwell | Lex Fridman](https://www.youtube.com/watch?v=7Sk6lTLSZcA)
 - [Betül Kaçar: Origin of Life, Ancient DNA, Panspermia, and Aliens | Lex Fridman Podcast #350](https://www.youtube.com/watch?v=NXU_M4030nE)
-- [How to improve Twitter | Lex Fridman, Kimbal Musk, Eric Weinstein, and Liv Boeree](https://www.youtube.com/watch?v=9ARgV3meTq8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
