@@ -58,7 +58,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Jeremi Suri: American Civil War | Lex Fridman Podcast #354](https://www.youtube.com/watch?v=GvX-heRWFfA)
+- [Jeremi Suri: Civil War, Slavery, Freedom, and Democracy | Lex Fridman Podcast #354](https://www.youtube.com/watch?v=GvX-heRWFfA)
 - [Dennis Whyte: Nuclear Fusion and the Future of Energy | Lex Fridman Podcast #353](https://www.youtube.com/watch?v=aJoRMFWn2Jk)
 - [Omar Suleiman: Islam | Lex Fridman Podcast #352](https://www.youtube.com/watch?v=BOKCNUqbpH0)
 - [MrBeast: Future of YouTube, Twitter, TikTok, and Instagram | Lex Fridman Podcast #351](https://www.youtube.com/watch?v=Z3_PwvvfxIU)
