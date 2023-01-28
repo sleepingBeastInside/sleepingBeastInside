@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [David Kipping: Alien Civilizations and Habitable Worlds | Lex Fridman Podcast #355](https://www.youtube.com/watch?v=uZN5xjoS6TU)
 - [Jeremi Suri: Civil War, Slavery, Freedom, and Democracy | Lex Fridman Podcast #354](https://www.youtube.com/watch?v=GvX-heRWFfA)
 - [Dennis Whyte: Nuclear Fusion and the Future of Energy | Lex Fridman Podcast #353](https://www.youtube.com/watch?v=aJoRMFWn2Jk)
 - [Omar Suleiman: Islam | Lex Fridman Podcast #352](https://www.youtube.com/watch?v=BOKCNUqbpH0)
 - [MrBeast: Future of YouTube, Twitter, TikTok, and Instagram | Lex Fridman Podcast #351](https://www.youtube.com/watch?v=Z3_PwvvfxIU)
-- [1984 by George Orwell | Lex Fridman](https://www.youtube.com/watch?v=7Sk6lTLSZcA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
