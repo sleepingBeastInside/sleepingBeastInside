@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tim Dodd: SpaceX, Starship, Rocket Engines, and Future of Space Travel | Lex Fridman Podcast #356](https://www.youtube.com/watch?v=5eK5A_43pkE)
 - [David Kipping: Alien Civilizations and Habitable Worlds | Lex Fridman Podcast #355](https://www.youtube.com/watch?v=uZN5xjoS6TU)
 - [Jeremi Suri: Civil War, Slavery, Freedom, and Democracy | Lex Fridman Podcast #354](https://www.youtube.com/watch?v=GvX-heRWFfA)
 - [Dennis Whyte: Nuclear Fusion and the Future of Energy | Lex Fridman Podcast #353](https://www.youtube.com/watch?v=aJoRMFWn2Jk)
 - [Omar Suleiman: Islam | Lex Fridman Podcast #352](https://www.youtube.com/watch?v=BOKCNUqbpH0)
-- [MrBeast: Future of YouTube, Twitter, TikTok, and Instagram | Lex Fridman Podcast #351](https://www.youtube.com/watch?v=Z3_PwvvfxIU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
