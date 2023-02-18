@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Lex Fridman plays Red Dead Redemption 2](https://www.youtube.com/watch?v=U6-TaGK_d4o)
 - [Andrew Strominger: Black Holes, Quantum Gravity, and Theoretical Physics | Lex Fridman Podcast #359](https://www.youtube.com/watch?v=y3cw_9ELpQw)
 - [Aella: Sex Work, OnlyFans, Porn, Escorting, Dating, and Human Sexuality | Lex Fridman Podcast #358](https://www.youtube.com/watch?v=cFSrxSBrgSc)
 - [Paul Conti: Narcissism, Sociopathy, Envy, and the Nature of Good and Evil | Lex Fridman Podcast #357](https://www.youtube.com/watch?v=jRBksDVs4tg)
 - [Tim Dodd: SpaceX, Starship, Rocket Engines, and Future of Space Travel | Lex Fridman Podcast #356](https://www.youtube.com/watch?v=5eK5A_43pkE)
-- [David Kipping: Alien Civilizations and Habitable Worlds | Lex Fridman Podcast #355](https://www.youtube.com/watch?v=uZN5xjoS6TU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
