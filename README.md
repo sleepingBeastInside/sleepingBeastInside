@@ -58,7 +58,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Tim Urban: Wokeism, Cancel Culture, Social Justice, Marxism &amp; Liberalism | Lex Fridman Podcast #360](https://www.youtube.com/watch?v=GkZz2I6sK08)
+- [Tim Urban: Tribalism, Marxism, Liberalism, Social Justice, and Politics | Lex Fridman Podcast #360](https://www.youtube.com/watch?v=GkZz2I6sK08)
 - [Lex Fridman plays Red Dead Redemption 2](https://www.youtube.com/watch?v=U6-TaGK_d4o)
 - [Andrew Strominger: Black Holes, Quantum Gravity, and Theoretical Physics | Lex Fridman Podcast #359](https://www.youtube.com/watch?v=y3cw_9ELpQw)
 - [Aella: Sex Work, OnlyFans, Porn, Escorting, Dating, and Human Sexuality | Lex Fridman Podcast #358](https://www.youtube.com/watch?v=cFSrxSBrgSc)
