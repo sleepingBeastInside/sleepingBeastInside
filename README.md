@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Aaron Smith-Levin: Scientology | Lex Fridman Podcast #361](https://www.youtube.com/watch?v=J1lN9zkK_k0)
 - [Tim Urban: Tribalism, Marxism, Liberalism, Social Justice, and Politics | Lex Fridman Podcast #360](https://www.youtube.com/watch?v=GkZz2I6sK08)
 - [Lex Fridman plays Red Dead Redemption 2](https://www.youtube.com/watch?v=U6-TaGK_d4o)
 - [Andrew Strominger: Black Holes, Quantum Gravity, and Theoretical Physics | Lex Fridman Podcast #359](https://www.youtube.com/watch?v=y3cw_9ELpQw)
 - [Aella: Sex Work, OnlyFans, Porn, Escorting, Dating, and Human Sexuality | Lex Fridman Podcast #358](https://www.youtube.com/watch?v=cFSrxSBrgSc)
-- [Paul Conti: Narcissism, Sociopathy, Envy, and the Nature of Good and Evil | Lex Fridman Podcast #357](https://www.youtube.com/watch?v=jRBksDVs4tg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
