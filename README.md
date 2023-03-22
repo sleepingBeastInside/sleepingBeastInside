@@ -61,8 +61,8 @@
 - [Shannon Curry: Johnny Depp &amp; Amber Heard Trial, Marriage, Dating &amp; Love | Lex Fridman Podcast #366](https://www.youtube.com/watch?v=qtOKrG_wK5A)
 - [Sam Harris: Trump, Pandemic, Twitter, Elon, Bret, IDW, Kanye, AI &amp; UFOs | Lex Fridman Podcast #365](https://www.youtube.com/watch?v=Qyrjgf-_Vdk)
 - [Chris Voss: FBI Hostage Negotiator | Lex Fridman Podcast #364](https://www.youtube.com/watch?v=8EguLJgkc54)
-- [Cutting the Lex Fridman cake with Joe Rogan and Michael Malice](https://www.youtube.com/watch?v=7khdWxWLtY8)
 - [B-Team Jiu Jitsu: Craig Jones, Nicky Rod, and Nicky Ryan | Lex Fridman Podcast #363](https://www.youtube.com/watch?v=hLZ6PACCBy8)
+- [Ginni Rometty: IBM CEO on Leadership, Power, and Adversity | Lex Fridman Podcast #362](https://www.youtube.com/watch?v=XiCxj-bXu5M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
