@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Edward Frenkel: Reality is a Paradox - Mathematics, Physics, Truth &amp; Love | Lex Fridman Podcast #370](https://www.youtube.com/watch?v=Osh0-J3T2nY)
 - [Paul Rosolie: Amazon Jungle, Uncontacted Tribes, Anacondas, and Ayahuasca | Lex Fridman Podcast #369](https://www.youtube.com/watch?v=gPfriiHBBek)
 - [Eliezer Yudkowsky: Dangers of AI and the End of Human Civilization | Lex Fridman Podcast #368](https://www.youtube.com/watch?v=AaTRHFaaPG8)
 - [Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | Lex Fridman Podcast #367](https://www.youtube.com/watch?v=L_Guz73e6fw)
 - [Shannon Curry: Johnny Depp &amp; Amber Heard Trial, Marriage, Dating &amp; Love | Lex Fridman Podcast #366](https://www.youtube.com/watch?v=qtOKrG_wK5A)
-- [Sam Harris: Trump, Pandemic, Twitter, Elon, Bret, IDW, Kanye, AI &amp; UFOs | Lex Fridman Podcast #365](https://www.youtube.com/watch?v=Qyrjgf-_Vdk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
