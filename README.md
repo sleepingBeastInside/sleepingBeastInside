@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Max Tegmark: The Case for Halting AI Development | Lex Fridman Podcast #371](https://www.youtube.com/watch?v=VcVfceTsD0A)
 - [Edward Frenkel: Reality is a Paradox - Mathematics, Physics, Truth &amp; Love | Lex Fridman Podcast #370](https://www.youtube.com/watch?v=Osh0-J3T2nY)
 - [Paul Rosolie: Amazon Jungle, Uncontacted Tribes, Anacondas, and Ayahuasca | Lex Fridman Podcast #369](https://www.youtube.com/watch?v=gPfriiHBBek)
 - [Eliezer Yudkowsky: Dangers of AI and the End of Human Civilization | Lex Fridman Podcast #368](https://www.youtube.com/watch?v=AaTRHFaaPG8)
 - [Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | Lex Fridman Podcast #367](https://www.youtube.com/watch?v=L_Guz73e6fw)
-- [Shannon Curry: Johnny Depp &amp; Amber Heard Trial, Marriage, Dating &amp; Love | Lex Fridman Podcast #366](https://www.youtube.com/watch?v=qtOKrG_wK5A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
