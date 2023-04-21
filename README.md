@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Manolis Kellis: Evolution of Human Civilization and Superintelligent AI | Lex Fridman Podcast #373](https://www.youtube.com/watch?v=wMavKrA-4do)
 - [Simone Giertz: Queen of Sh*tty Robots, Innovative Engineering, and Design | Lex Fridman Podcast #372](https://www.youtube.com/watch?v=OgIo36F6Fsg)
 - [Max Tegmark: The Case for Halting AI Development | Lex Fridman Podcast #371](https://www.youtube.com/watch?v=VcVfceTsD0A)
 - [Edward Frenkel: Reality is a Paradox - Mathematics, Physics, Truth &amp; Love | Lex Fridman Podcast #370](https://www.youtube.com/watch?v=Osh0-J3T2nY)
 - [Paul Rosolie: Amazon Jungle, Uncontacted Tribes, Anacondas, and Ayahuasca | Lex Fridman Podcast #369](https://www.youtube.com/watch?v=gPfriiHBBek)
-- [Eliezer Yudkowsky: Dangers of AI and the End of Human Civilization | Lex Fridman Podcast #368](https://www.youtube.com/watch?v=AaTRHFaaPG8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
