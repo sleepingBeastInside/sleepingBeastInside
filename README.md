@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [David Pakman: Politics of Trump, Biden, Bernie, AOC, Socialism &amp; Wokeism | Lex Fridman Podcast #375](https://www.youtube.com/watch?v=2i31fDkaK9A)
 - [Robert Playter: Boston Dynamics CEO on Humanoid and Legged Robotics | Lex Fridman Podcast #374](https://www.youtube.com/watch?v=cLVdsZ3I5os)
 - [Manolis Kellis: Evolution of Human Civilization and Superintelligent AI | Lex Fridman Podcast #373](https://www.youtube.com/watch?v=wMavKrA-4do)
 - [Simone Giertz: Queen of Sh*tty Robots, Innovative Engineering, and Design | Lex Fridman Podcast #372](https://www.youtube.com/watch?v=OgIo36F6Fsg)
 - [Max Tegmark: The Case for Halting AI Development | Lex Fridman Podcast #371](https://www.youtube.com/watch?v=VcVfceTsD0A)
-- [Edward Frenkel: Reality is a Paradox - Mathematics, Physics, Truth &amp; Love | Lex Fridman Podcast #370](https://www.youtube.com/watch?v=Osh0-J3T2nY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
