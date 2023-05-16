@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Harvey Silverglate: Freedom of Speech | Lex Fridman Podcast #377](https://www.youtube.com/watch?v=DgTjSrrf6GQ)
 - [Stephen Wolfram: ChatGPT and the Nature of Truth, Reality &amp; Computation | Lex Fridman Podcast #376](https://www.youtube.com/watch?v=PdE-waSx-d8)
 - [David Pakman: Politics of Trump, Biden, Bernie, AOC, Socialism &amp; Wokeism | Lex Fridman Podcast #375](https://www.youtube.com/watch?v=2i31fDkaK9A)
 - [Robert Playter: Boston Dynamics CEO on Humanoid and Legged Robotics | Lex Fridman Podcast #374](https://www.youtube.com/watch?v=cLVdsZ3I5os)
 - [Manolis Kellis: Evolution of Human Civilization and Superintelligent AI | Lex Fridman Podcast #373](https://www.youtube.com/watch?v=wMavKrA-4do)
-- [Simone Giertz: Queen of Sh*tty Robots, Innovative Engineering, and Design | Lex Fridman Podcast #372](https://www.youtube.com/watch?v=OgIo36F6Fsg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
