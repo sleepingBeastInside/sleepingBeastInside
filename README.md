@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Randall Kennedy: The N-Word - History of Race, Law, Politics, and Power | Lex Fridman Podcast #379](https://www.youtube.com/watch?v=iFXGpKf9VBU)
 - [Anna Frebel: Origin and Evolution of the Universe, Galaxies, and Stars | Lex Fridman Podcast #378](https://www.youtube.com/watch?v=IQnUa5Bq5x4)
 - [Harvey Silverglate: Freedom of Speech | Lex Fridman Podcast #377](https://www.youtube.com/watch?v=DgTjSrrf6GQ)
 - [Stephen Wolfram: ChatGPT and the Nature of Truth, Reality &amp; Computation | Lex Fridman Podcast #376](https://www.youtube.com/watch?v=PdE-waSx-d8)
 - [David Pakman: Politics of Trump, Biden, Bernie, AOC, Socialism &amp; Wokeism | Lex Fridman Podcast #375](https://www.youtube.com/watch?v=2i31fDkaK9A)
-- [Robert Playter: Boston Dynamics CEO on Humanoid and Legged Robotics | Lex Fridman Podcast #374](https://www.youtube.com/watch?v=cLVdsZ3I5os)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
