@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Matthew McConaughey: Freedom, Truth, Family, Hardship, and Love | Lex Fridman Podcast #384](https://www.youtube.com/watch?v=8qgIFD0PaWo)
 - [Mark Zuckerberg: Future of AI at Meta, Facebook, Instagram, and WhatsApp | Lex Fridman Podcast #383](https://www.youtube.com/watch?v=Ff4fRgnuFgQ)
 - [Bert Kreischer: Comedy, Drinking, Rogan, Segura, Churchill &amp; Kim Jong Un | Lex Fridman Podcast #382](https://www.youtube.com/watch?v=8TmV6KEYkK0)
 - [Chris Lattner: Future of Programming and AI | Lex Fridman Podcast #381](https://www.youtube.com/watch?v=pdJQ8iVTwj8)
 - [Neil Gershenfeld: Self-Replicating Robots and the Future of Fabrication | Lex Fridman Podcast #380](https://www.youtube.com/watch?v=YDjOS0VHEr4)
-- [Randall Kennedy: The N-Word - History of Race, Law, Politics, and Power | Lex Fridman Podcast #379](https://www.youtube.com/watch?v=iFXGpKf9VBU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
