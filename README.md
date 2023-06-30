@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [George Hotz: Tiny Corp, Twitter, AI Safety, Self-Driving, GPT, AGI &amp; God | Lex Fridman Podcast #387](https://www.youtube.com/watch?v=dNrTrx42DGQ)
 - [Mark Zuckerberg vs Lex Fridman in Jiu Jitsu](https://www.youtube.com/watch?v=1Wy-6z17up4)
 - [Marc Andreessen: Future of the Internet, Technology, and AI | Lex Fridman Podcast #386](https://www.youtube.com/watch?v=-hxeDjAxvJ8)
 - [Jimmy Wales: Wikipedia | Lex Fridman Podcast #385](https://www.youtube.com/watch?v=diJp4zoQPqo)
 - [Matthew McConaughey: Freedom, Truth, Family, Hardship, and Love | Lex Fridman Podcast #384](https://www.youtube.com/watch?v=8qgIFD0PaWo)
-- [Mark Zuckerberg: Future of AI at Meta, Facebook, Instagram, and WhatsApp | Lex Fridman Podcast #383](https://www.youtube.com/watch?v=Ff4fRgnuFgQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
