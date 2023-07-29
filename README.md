@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Lex Fridman speaks to Palestinians in the West Bank](https://www.youtube.com/watch?v=dZWngkjrFxw)
 - [Mohammed El-Kurd: Palestine | Lex Fridman Podcast #391](https://www.youtube.com/watch?v=34wA_bdG6QQ)
 - [Yuval Noah Harari: Human Nature, Intelligence, Power, and Conspiracies | Lex Fridman Podcast #390](https://www.youtube.com/watch?v=Mde2q7GFCrw)
 - [Benjamin Netanyahu: Israel, Palestine, Power, Corruption, Hate, and Peace | Lex Fridman Podcast #389](https://www.youtube.com/watch?v=XpC7SVDXimg)
 - [Robert F. Kennedy Jr: CIA, Power, Corruption, War, Freedom, and Meaning | Lex Fridman Podcast #388](https://www.youtube.com/watch?v=NPtBkw5uD-0)
-- [George Hotz: Tiny Corp, Twitter, AI Safety, Self-Driving, GPT, AGI &amp; God | Lex Fridman Podcast #387](https://www.youtube.com/watch?v=dNrTrx42DGQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
