@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Andrew Huberman: Relationships, Drama, Betrayal, Sex, and Love | Lex Fridman Podcast #393](https://www.youtube.com/watch?v=eTBAxD6lt2g)
 - [Georges St-Pierre vs Lex Fridman in Jiu Jitsu and MMA](https://www.youtube.com/watch?v=Sfj0hBnfmmo)
 - [Joscha Bach: Life, Intelligence, Consciousness, AI &amp; the Future of Humans | Lex Fridman Podcast #392](https://www.youtube.com/watch?v=e8qJsk1j2zE)
 - [Lex Fridman speaks to Palestinians in the West Bank](https://www.youtube.com/watch?v=dZWngkjrFxw)
 - [Mohammed El-Kurd: Palestine | Lex Fridman Podcast #391](https://www.youtube.com/watch?v=34wA_bdG6QQ)
-- [Yuval Noah Harari: Human Nature, Intelligence, Power, and Conspiracies | Lex Fridman Podcast #390](https://www.youtube.com/watch?v=Mde2q7GFCrw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
