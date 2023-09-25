@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Greg Lukianoff: Cancel Culture, Deplatforming, Censorship &amp; Free Speech | Lex Fridman Podcast #397](https://www.youtube.com/watch?v=buarAx_u2qg)
 - [James Sexton: Divorce Lawyer on Marriage, Relationships, Sex, Lies &amp; Love | Lex Fridman Podcast #396](https://www.youtube.com/watch?v=fUEjCXpOjPY)
 - [Walter Isaacson: Elon Musk, Steve Jobs, Einstein, Da Vinci &amp; Ben Franklin | Lex Fridman Podcast #395](https://www.youtube.com/watch?v=aGOV5R7M1Js)
 - [Neri Oxman: Biology, Art, and Science of Design &amp; Engineering with Nature | Lex Fridman Podcast #394](https://www.youtube.com/watch?v=XbPHojL_61U)
 - [Andrew Huberman: Relationships, Drama, Betrayal, Sex, and Love | Lex Fridman Podcast #393](https://www.youtube.com/watch?v=eTBAxD6lt2g)
-- [Georges St-Pierre vs Lex Fridman in Jiu Jitsu and MMA](https://www.youtube.com/watch?v=Sfj0hBnfmmo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
