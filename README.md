@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Jared Kushner: Israel, Palestine, Hamas, Gaza, Iran, and the Middle East | Lex Fridman Podcast #399](https://www.youtube.com/watch?v=co_MeKSnyAo)
 - [Mark Zuckerberg: First Interview in the Metaverse | Lex Fridman Podcast #398](https://www.youtube.com/watch?v=MVYrJJNdrEg)
 - [Greg Lukianoff: Cancel Culture, Deplatforming, Censorship &amp; Free Speech | Lex Fridman Podcast #397](https://www.youtube.com/watch?v=buarAx_u2qg)
 - [James Sexton: Divorce Lawyer on Marriage, Relationships, Sex, Lies &amp; Love | Lex Fridman Podcast #396](https://www.youtube.com/watch?v=fUEjCXpOjPY)
 - [Walter Isaacson: Elon Musk, Steve Jobs, Einstein, Da Vinci &amp; Ben Franklin | Lex Fridman Podcast #395](https://www.youtube.com/watch?v=aGOV5R7M1Js)
-- [Neri Oxman: Biology, Art, and Science of Design &amp; Engineering with Nature | Lex Fridman Podcast #394](https://www.youtube.com/watch?v=XbPHojL_61U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
