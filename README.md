@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Michael Malice: Thanksgiving Pirate Special | Lex Fridman Podcast #402](https://www.youtube.com/watch?v=2yHr9DPnSzk)
 - [John Mearsheimer: Israel-Palestine, Russia-Ukraine, China, NATO, and WW3 | Lex Fridman Podcast #401](https://www.youtube.com/watch?v=r4wLXNydzeY)
 - [Elon Musk: War, AI, Aliens, Politics, Physics, Video Games, and Humanity | Lex Fridman Podcast #400](https://www.youtube.com/watch?v=JN3KPFbWCy8)
 - [Jared Kushner: Israel, Palestine, Hamas, Gaza, Iran, and the Middle East | Lex Fridman Podcast #399](https://www.youtube.com/watch?v=co_MeKSnyAo)
 - [Mark Zuckerberg: First Interview in the Metaverse | Lex Fridman Podcast #398](https://www.youtube.com/watch?v=MVYrJJNdrEg)
-- [Greg Lukianoff: Cancel Culture, Deplatforming, Censorship &amp; Free Speech | Lex Fridman Podcast #397](https://www.youtube.com/watch?v=buarAx_u2qg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
