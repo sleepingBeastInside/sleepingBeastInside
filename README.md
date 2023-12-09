@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Lee Cronin: Controversial Nature Paper on Evolution of Life and Universe | Lex Fridman Podcast #404](https://www.youtube.com/watch?v=CGiDqhSdLHk)
 - [Lisa Randall: Dark Matter, Theoretical Physics, and Extinction Events | Lex Fridman Podcast #403](https://www.youtube.com/watch?v=VPaOy3G1-2A)
 - [Michael Malice: Thanksgiving Pirate Special | Lex Fridman Podcast #402](https://www.youtube.com/watch?v=2yHr9DPnSzk)
 - [John Mearsheimer: Israel-Palestine, Russia-Ukraine, China, NATO, and WW3 | Lex Fridman Podcast #401](https://www.youtube.com/watch?v=r4wLXNydzeY)
 - [Elon Musk: War, AI, Aliens, Politics, Physics, Video Games, and Humanity | Lex Fridman Podcast #400](https://www.youtube.com/watch?v=JN3KPFbWCy8)
-- [Jared Kushner: Israel, Palestine, Hamas, Gaza, Iran, and the Middle East | Lex Fridman Podcast #399](https://www.youtube.com/watch?v=co_MeKSnyAo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
