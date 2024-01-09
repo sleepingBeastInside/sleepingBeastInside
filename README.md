@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tal Wilkenfeld: Music, Guitar, Bass, Jeff Beck, Prince, and Leonard Cohen | Lex Fridman Podcast #408](https://www.youtube.com/watch?v=9qfwPv7clEw)
 - [Guillaume Verdon: Beff Jezos, E/acc Movement, Physics, Computation &amp; AGI | Lex Fridman Podcast #407](https://www.youtube.com/watch?v=8fEEbKJoNbU)
 - [Teddy Atlas: Mike Tyson, Cus D&#39;Amato, Boxing, Loyalty, Fear &amp; Greatness | Lex Fridman Podcast #406](https://www.youtube.com/watch?v=CVx9IB_U9X4)
 - [Jeff Bezos: Amazon and Blue Origin | Lex Fridman Podcast #405](https://www.youtube.com/watch?v=DcWqzZ3I2cY)
 - [Lee Cronin: Controversial Nature Paper on Evolution of Life and Universe | Lex Fridman Podcast #404](https://www.youtube.com/watch?v=CGiDqhSdLHk)
-- [Lisa Randall: Dark Matter, Theoretical Physics, and Extinction Events | Lex Fridman Podcast #403](https://www.youtube.com/watch?v=VPaOy3G1-2A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
