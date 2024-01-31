@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Omar Suleiman: Palestine, Gaza, Oct 7, Israel, Resistance, Faith &amp; Islam | Lex Fridman Podcast #411](https://www.youtube.com/watch?v=oFSyNdQf5uk)
 - [Ben Shapiro vs Destiny Debate: Politics, Jan 6, Israel, Ukraine &amp; Wokeism | Lex Fridman Podcast #410](https://www.youtube.com/watch?v=tYrdMjVXyNg)
 - [Matthew Cox: FBI Most Wanted Con Man - $55 Million in Bank Fraud | Lex Fridman Podcast #409](https://www.youtube.com/watch?v=zMYvGf7BA9o)
 - [Tal Wilkenfeld: Music, Guitar, Bass, Jeff Beck, Prince, and Leonard Cohen | Lex Fridman Podcast #408](https://www.youtube.com/watch?v=9qfwPv7clEw)
 - [Guillaume Verdon: Beff Jezos, E/acc Movement, Physics, Computation &amp; AGI | Lex Fridman Podcast #407](https://www.youtube.com/watch?v=8fEEbKJoNbU)
-- [Teddy Atlas: Mike Tyson, Cus D&#39;Amato, Boxing, Loyalty, Fear &amp; Greatness | Lex Fridman Podcast #406](https://www.youtube.com/watch?v=CVx9IB_U9X4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
