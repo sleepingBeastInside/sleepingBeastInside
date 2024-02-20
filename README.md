@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Bill Ackman: Investing, Financial Battles, Harvard, DEI, X &amp; Free Speech | Lex Fridman Podcast #413](https://www.youtube.com/watch?v=PgGKhsWhUu8)
 - [Marc Raibert: Boston Dynamics and the Future of Robotics | Lex Fridman Podcast #412](https://www.youtube.com/watch?v=5VnbBCm_ZyQ)
 - [Omar Suleiman: Palestine, Gaza, Oct 7, Israel, Resistance, Faith &amp; Islam | Lex Fridman Podcast #411](https://www.youtube.com/watch?v=oFSyNdQf5uk)
 - [Ben Shapiro vs Destiny Debate: Politics, Jan 6, Israel, Ukraine &amp; Wokeism | Lex Fridman Podcast #410](https://www.youtube.com/watch?v=tYrdMjVXyNg)
 - [Matthew Cox: FBI Most Wanted Con Man - $55 Million in Bank Fraud | Lex Fridman Podcast #409](https://www.youtube.com/watch?v=zMYvGf7BA9o)
-- [Tal Wilkenfeld: Music, Guitar, Bass, Jeff Beck, Prince, and Leonard Cohen | Lex Fridman Podcast #408](https://www.youtube.com/watch?v=9qfwPv7clEw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
