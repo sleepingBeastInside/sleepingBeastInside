@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Serhii Plokhy: History of Ukraine, Russia, Soviet Union, KGB, Nazis &amp; War | Lex Fridman Podcast #415](https://www.youtube.com/watch?v=qa-wl8_wpZA)
 - [Tucker Carlson: Putin, Navalny, Trump, CIA, NSA, War, Politics &amp; Freedom | Lex Fridman Podcast #414](https://www.youtube.com/watch?v=f_lRdkH_QoY)
 - [Bill Ackman: Investing, Financial Battles, Harvard, DEI, X &amp; Free Speech | Lex Fridman Podcast #413](https://www.youtube.com/watch?v=PgGKhsWhUu8)
 - [Marc Raibert: Boston Dynamics and the Future of Robotics | Lex Fridman Podcast #412](https://www.youtube.com/watch?v=5VnbBCm_ZyQ)
 - [Omar Suleiman: Palestine, Gaza, Oct 7, Israel, Resistance, Faith &amp; Islam | Lex Fridman Podcast #411](https://www.youtube.com/watch?v=oFSyNdQf5uk)
-- [Ben Shapiro vs Destiny Debate: Politics, Jan 6, Israel, Ukraine &amp; Wokeism | Lex Fridman Podcast #410](https://www.youtube.com/watch?v=tYrdMjVXyNg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
