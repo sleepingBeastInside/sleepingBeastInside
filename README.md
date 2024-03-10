@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Kimbal Musk: The Art of Cooking, Tesla, SpaceX, Zip2, and Family | Lex Fridman Podcast #417](https://www.youtube.com/watch?v=iAlwZyRUOVM)
 - [Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI &amp; the Future of AI | Lex Fridman Podcast #416](https://www.youtube.com/watch?v=5t1vTLU7s40)
 - [Serhii Plokhy: History of Ukraine, Russia, Soviet Union, KGB, Nazis &amp; War | Lex Fridman Podcast #415](https://www.youtube.com/watch?v=qa-wl8_wpZA)
 - [Tucker Carlson: Putin, Navalny, Trump, CIA, NSA, War, Politics &amp; Freedom | Lex Fridman Podcast #414](https://www.youtube.com/watch?v=f_lRdkH_QoY)
 - [Bill Ackman: Investing, Financial Battles, Harvard, DEI, X &amp; Free Speech | Lex Fridman Podcast #413](https://www.youtube.com/watch?v=PgGKhsWhUu8)
-- [Marc Raibert: Boston Dynamics and the Future of Robotics | Lex Fridman Podcast #412](https://www.youtube.com/watch?v=5VnbBCm_ZyQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
