@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Annie Jacobsen: Nuclear War, CIA, KGB, Aliens, Area 51, Roswell &amp; Secrecy | Lex Fridman Podcast #420](https://www.youtube.com/watch?v=GXgGR8KxFao)
 - [Sam Altman: OpenAI, GPT-5, Sora, Board Saga, Elon Musk, Ilya, Power &amp; AGI | Lex Fridman Podcast #419](https://www.youtube.com/watch?v=jvqFAi7vkBc)
 - [Israel-Palestine Debate: Finkelstein, Destiny, M. Rabbani &amp; Benny Morris | Lex Fridman Podcast #418](https://www.youtube.com/watch?v=1X_KdkoGxSs)
 - [Kimbal Musk: The Art of Cooking, Tesla, SpaceX, Zip2, and Family | Lex Fridman Podcast #417](https://www.youtube.com/watch?v=iAlwZyRUOVM)
 - [Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI &amp; the Future of AI | Lex Fridman Podcast #416](https://www.youtube.com/watch?v=5t1vTLU7s40)
-- [Serhii Plokhy: History of Ukraine, Russia, Soviet Union, KGB, Nazis &amp; War | Lex Fridman Podcast #415](https://www.youtube.com/watch?v=qa-wl8_wpZA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
