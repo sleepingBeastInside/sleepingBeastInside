@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Bassem Youssef: Israel-Palestine, Gaza, Hamas, Middle East, Satire &amp; Fame | Lex Fridman Podcast #424](https://www.youtube.com/watch?v=sG8u6owzad4)
 - [Tulsi Gabbard: War, Politics, and the Military Industrial Complex | Lex Fridman Podcast #423](https://www.youtube.com/watch?v=_El9riy9Zjw)
 - [Mark Cuban: Shark Tank, DEI &amp; Wokeism Debate, Elon Musk, Politics &amp; Drugs | Lex Fridman Podcast #422](https://www.youtube.com/watch?v=0cn3VBjfN8g)
 - [Dana White: UFC, Fighting, Khabib, Conor, Tyson, Ali, Rogan, Elon &amp; Zuck | Lex Fridman Podcast #421](https://www.youtube.com/watch?v=k7aQEqDbuf8)
 - [Annie Jacobsen: Nuclear War, CIA, KGB, Aliens, Area 51, Roswell &amp; Secrecy | Lex Fridman Podcast #420](https://www.youtube.com/watch?v=GXgGR8KxFao)
-- [Sam Altman: OpenAI, GPT-5, Sora, Board Saga, Elon Musk, Ilya, Power &amp; AGI | Lex Fridman Podcast #419](https://www.youtube.com/watch?v=jvqFAi7vkBc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
