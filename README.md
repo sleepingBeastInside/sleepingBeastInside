@@ -58,7 +58,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Andrew Callaghan: Channel 5, Gonzo Journalism, Controversy, and Politics | Lex Fridman Podcast #425](https://www.youtube.com/watch?v=yEou104m_P0)
+- [Andrew Callaghan: Channel 5, Gonzo, QAnon, O-Block, Politics &amp; Alex Jones | Lex Fridman Podcast #425](https://www.youtube.com/watch?v=yEou104m_P0)
 - [Bassem Youssef: Israel-Palestine, Gaza, Hamas, Middle East, Satire &amp; Fame | Lex Fridman Podcast #424](https://www.youtube.com/watch?v=sG8u6owzad4)
 - [Tulsi Gabbard: War, Politics, and the Military Industrial Complex | Lex Fridman Podcast #423](https://www.youtube.com/watch?v=_El9riy9Zjw)
 - [Mark Cuban: Shark Tank, DEI &amp; Wokeism Debate, Elon Musk, Politics &amp; Drugs | Lex Fridman Podcast #422](https://www.youtube.com/watch?v=0cn3VBjfN8g)
