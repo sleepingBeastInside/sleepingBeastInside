@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Sean Carroll: General Relativity, Quantum Mechanics, Black Holes &amp; Aliens | Lex Fridman Podcast #428](https://www.youtube.com/watch?v=tdv7r2JSokI)
 - [Neil Adams: Judo, Olympics, Winning, Losing, and the Champion Mindset | Lex Fridman Podcast #427](https://www.youtube.com/watch?v=TXabC2Ave74)
 - [Lex Fridman does judo with Travis Stevens, Olympic Silver Medalist](https://www.youtube.com/watch?v=vexARYQjdN8)
 - [Edward Gibson: Human Language, Psycholinguistics, Syntax, Grammar &amp; LLMs | Lex Fridman Podcast #426](https://www.youtube.com/watch?v=F3Jd9GI6XqE)
 - [Andrew Callaghan: Channel 5, Gonzo, QAnon, O-Block, Politics &amp; Alex Jones | Lex Fridman Podcast #425](https://www.youtube.com/watch?v=yEou104m_P0)
-- [Bassem Youssef: Israel-Palestine, Gaza, Hamas, Middle East, Satire &amp; Fame | Lex Fridman Podcast #424](https://www.youtube.com/watch?v=sG8u6owzad4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
