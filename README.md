@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Charan Ranganath: Human Memory, Imagination, Deja Vu, and False Memories | Lex Fridman Podcast #430](https://www.youtube.com/watch?v=4iuepdI3wCU)
 - [Paul Rosolie: Jungle, Apex Predators, Aliens, Uncontacted Tribes, and God | Lex Fridman Podcast #429](https://www.youtube.com/watch?v=pwN8u6HFH8U)
 - [I&#39;m leaving to the Amazon jungle...](https://www.youtube.com/watch?v=1WpqQfmzBGY)
 - [Sean Carroll: General Relativity, Quantum Mechanics, Black Holes &amp; Aliens | Lex Fridman Podcast #428](https://www.youtube.com/watch?v=tdv7r2JSokI)
 - [Neil Adams: Judo, Olympics, Winning, Losing, and the Champion Mindset | Lex Fridman Podcast #427](https://www.youtube.com/watch?v=TXabC2Ave74)
-- [Lex Fridman does judo with Travis Stevens, Olympic Silver Medalist](https://www.youtube.com/watch?v=vexARYQjdN8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
