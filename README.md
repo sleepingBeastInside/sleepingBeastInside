@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Sara Walker: Physics of Life, Time, Complexity, and Aliens | Lex Fridman Podcast #433](https://www.youtube.com/watch?v=wwhTfyX9J34)
 - [Kevin Spacey: Power, Controversy, Betrayal, Truth &amp; Love in Film and Life | Lex Fridman Podcast #432](https://www.youtube.com/watch?v=XJTMQtE-MIo)
 - [Roman Yampolskiy: Dangers of Superintelligent AI | Lex Fridman Podcast #431](https://www.youtube.com/watch?v=NNr6gPelJ3E)
 - [Charan Ranganath: Human Memory, Imagination, Deja Vu, and False Memories | Lex Fridman Podcast #430](https://www.youtube.com/watch?v=4iuepdI3wCU)
 - [Paul Rosolie: Jungle, Apex Predators, Aliens, Uncontacted Tribes, and God | Lex Fridman Podcast #429](https://www.youtube.com/watch?v=pwN8u6HFH8U)
-- [I&#39;m leaving to the Amazon jungle...](https://www.youtube.com/watch?v=1WpqQfmzBGY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
