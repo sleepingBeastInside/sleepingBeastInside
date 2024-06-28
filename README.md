@@ -58,7 +58,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Andrew Huberman: Productivity, Controversy, Politics, and Relationships | Lex Fridman Podcast #435](https://www.youtube.com/watch?v=ZIyB9e_7a4c)
+- [Andrew Huberman: Focus, Controversy, Politics, and Relationships | Lex Fridman Podcast #435](https://www.youtube.com/watch?v=ZIyB9e_7a4c)
 - [Aravind Srinivas: Perplexity CEO on Future of AI, Search &amp; the Internet | Lex Fridman Podcast #434](https://www.youtube.com/watch?v=e-gwvmhyU7A)
 - [Sara Walker: Physics of Life, Time, Complexity, and Aliens | Lex Fridman Podcast #433](https://www.youtube.com/watch?v=wwhTfyX9J34)
 - [Kevin Spacey: Power, Controversy, Betrayal, Truth &amp; Love in Film and Life | Lex Fridman Podcast #432](https://www.youtube.com/watch?v=XJTMQtE-MIo)
