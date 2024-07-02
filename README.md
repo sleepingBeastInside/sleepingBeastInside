@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Ivanka Trump: Politics, Family, Real Estate, Fashion, Music, and Life | Lex Fridman Podcast #436](https://www.youtube.com/watch?v=2oxdDKHdcM8)
 - [Andrew Huberman: Focus, Controversy, Politics, and Relationships | Lex Fridman Podcast #435](https://www.youtube.com/watch?v=ZIyB9e_7a4c)
 - [Aravind Srinivas: Perplexity CEO on Future of AI, Search &amp; the Internet | Lex Fridman Podcast #434](https://www.youtube.com/watch?v=e-gwvmhyU7A)
 - [Sara Walker: Physics of Life, Time, Complexity, and Aliens | Lex Fridman Podcast #433](https://www.youtube.com/watch?v=wwhTfyX9J34)
 - [Kevin Spacey: Power, Controversy, Betrayal, Truth &amp; Love in Film and Life | Lex Fridman Podcast #432](https://www.youtube.com/watch?v=XJTMQtE-MIo)
-- [Roman Yampolskiy: Dangers of Superintelligent AI | Lex Fridman Podcast #431](https://www.youtube.com/watch?v=NNr6gPelJ3E)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
