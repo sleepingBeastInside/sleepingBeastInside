@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Cenk Uygur: Trump vs Harris, Progressive Politics, Communism &amp; Capitalism | Lex Fridman Podcast #441](https://www.youtube.com/watch?v=QJtPROVsePk)
 - [Pieter Levels: Programming, Viral AI Startups, and Digital Nomad Life | Lex Fridman Podcast #440](https://www.youtube.com/watch?v=oFtjKbXKqbg)
 - [Craig Jones: Jiu Jitsu, $2 Million Prize, CJI, ADCC, Ukraine &amp; Trolling | Lex Fridman Podcast #439](https://www.youtube.com/watch?v=J7aiEwp1x9k)
 - [Elon Musk: Neuralink and the Future of Humanity | Lex Fridman Podcast #438](https://www.youtube.com/watch?v=Kbk9BiPhm7o)
 - [Jordan Jonas: Survival, Hunting, Siberia, God, and Winning Alone Season 6 | Lex Fridman Podcast #437](https://www.youtube.com/watch?v=WA9gVKKPsBo)
-- [Ivanka Trump: Politics, Family, Real Estate, Fashion, Music, and Life | Lex Fridman Podcast #436](https://www.youtube.com/watch?v=2oxdDKHdcM8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
