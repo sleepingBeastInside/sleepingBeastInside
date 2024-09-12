@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Gregory Aldrete: The Roman Empire - Rise and Fall of Ancient Rome | Lex Fridman Podcast #443](https://www.youtube.com/watch?v=DyoVVSggPjY)
 - [Donald Trump Interview | Lex Fridman Podcast #442](https://www.youtube.com/watch?v=qCbfTN-caFI)
 - [Cenk Uygur: Trump vs Harris, Progressive Politics, Communism &amp; Capitalism | Lex Fridman Podcast #441](https://www.youtube.com/watch?v=QJtPROVsePk)
 - [Pieter Levels: Programming, Viral AI Startups, and Digital Nomad Life | Lex Fridman Podcast #440](https://www.youtube.com/watch?v=oFtjKbXKqbg)
 - [Craig Jones: Jiu Jitsu, $2 Million Prize, CJI, ADCC, Ukraine &amp; Trolling | Lex Fridman Podcast #439](https://www.youtube.com/watch?v=J7aiEwp1x9k)
-- [Elon Musk: Neuralink and the Future of Humanity | Lex Fridman Podcast #438](https://www.youtube.com/watch?v=Kbk9BiPhm7o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
