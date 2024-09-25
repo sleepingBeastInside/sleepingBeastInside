@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Vivek Ramaswamy: Trump, Conservatism, Nationalism, Immigration, and War | Lex Fridman Podcast #445](https://www.youtube.com/watch?v=Q8Qk_3a3lUw)
 - [Vejas Liulevicius: Communism, Marxism, Nazism, Stalin, Mao, and Hitler | Lex Fridman Podcast #444](https://www.youtube.com/watch?v=s1oTH4Sjvzg)
 - [Gregory Aldrete: The Roman Empire - Rise and Fall of Ancient Rome | Lex Fridman Podcast #443](https://www.youtube.com/watch?v=DyoVVSggPjY)
 - [Donald Trump Interview | Lex Fridman Podcast #442](https://www.youtube.com/watch?v=qCbfTN-caFI)
 - [Cenk Uygur: Trump vs Harris, Progressive Politics, Communism &amp; Capitalism | Lex Fridman Podcast #441](https://www.youtube.com/watch?v=QJtPROVsePk)
-- [Pieter Levels: Programming, Viral AI Startups, and Digital Nomad Life | Lex Fridman Podcast #440](https://www.youtube.com/watch?v=oFtjKbXKqbg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
