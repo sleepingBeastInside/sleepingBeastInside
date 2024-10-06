@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Cursor Team: Future of Programming with AI | Lex Fridman Podcast #447](https://www.youtube.com/watch?v=oFfVt3S51T4)
 - [Ed Barnhart: Maya, Aztec, Inca, and Lost Civilizations of South America | Lex Fridman Podcast #446](https://www.youtube.com/watch?v=AzzE7GOvYz8)
 - [Vivek Ramaswamy: Trump, Conservatism, Nationalism, Immigration, and War | Lex Fridman Podcast #445](https://www.youtube.com/watch?v=Q8Qk_3a3lUw)
 - [Vejas Liulevicius: Communism, Marxism, Nazism, Stalin, Mao, and Hitler | Lex Fridman Podcast #444](https://www.youtube.com/watch?v=s1oTH4Sjvzg)
 - [Gregory Aldrete: The Roman Empire - Rise and Fall of Ancient Rome | Lex Fridman Podcast #443](https://www.youtube.com/watch?v=DyoVVSggPjY)
-- [Donald Trump Interview | Lex Fridman Podcast #442](https://www.youtube.com/watch?v=qCbfTN-caFI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
