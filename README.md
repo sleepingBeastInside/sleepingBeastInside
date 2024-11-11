@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dario Amodei: Anthropic CEO on Claude, AGI &amp; the Future of AI &amp; Humanity | Lex Fridman Podcast #452](https://www.youtube.com/watch?v=ugvHCXCOmm4)
 - [Rick Spence: CIA, KGB, Illuminati, Secret Societies, Cults &amp; Conspiracies | Lex Fridman Podcast #451](https://www.youtube.com/watch?v=abd5hguWKz0)
 - [Bernie Sanders Interview | Lex Fridman Podcast #450](https://www.youtube.com/watch?v=MzkgWDCucNY)
 - [Graham Hancock: Lost Civilization of the Ice Age &amp; Ancient Human History | Lex Fridman Podcast #449](https://www.youtube.com/watch?v=NMHiLvirCb0)
 - [Jordan Peterson: Nietzsche, Hitler, God, Psychopathy, Suffering &amp; Meaning | Lex Fridman Podcast #448](https://www.youtube.com/watch?v=q8VePUwjB9Y)
-- [Cursor Team: Future of Programming with AI | Lex Fridman Podcast #447](https://www.youtube.com/watch?v=oFfVt3S51T4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
