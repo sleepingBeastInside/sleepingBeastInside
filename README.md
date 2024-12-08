@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Saagar Enjeti: Trump, MAGA, DOGE, Obama, FDR, JFK, History &amp; Politics | Lex Fridman Podcast #454](https://www.youtube.com/watch?v=9xz8i90Hp2A)
 - [Javier Milei: President of Argentina - Freedom, Economics, and Corruption | Lex Fridman Podcast #453](https://www.youtube.com/watch?v=8NLzc9kobDk)
 - [Dario Amodei: Anthropic CEO on Claude, AGI &amp; the Future of AI &amp; Humanity | Lex Fridman Podcast #452](https://www.youtube.com/watch?v=ugvHCXCOmm4)
 - [Rick Spence: CIA, KGB, Illuminati, Secret Societies, Cults &amp; Conspiracies | Lex Fridman Podcast #451](https://www.youtube.com/watch?v=abd5hguWKz0)
 - [Bernie Sanders Interview | Lex Fridman Podcast #450](https://www.youtube.com/watch?v=MzkgWDCucNY)
-- [Graham Hancock: Lost Civilization of the Ice Age &amp; Ancient Human History | Lex Fridman Podcast #449](https://www.youtube.com/watch?v=NMHiLvirCb0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
