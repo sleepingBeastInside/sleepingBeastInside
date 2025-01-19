@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Jennifer Burns: Milton Friedman, Ayn Rand, Economics, Capitalism, Freedom | Lex Fridman Podcast #457](https://www.youtube.com/watch?v=Rz-4ulRKnz4)
 - [Volodymyr Zelenskyy: Ukraine, War, Peace, Putin, Trump, NATO, and Freedom | Lex Fridman Podcast #456](https://www.youtube.com/watch?v=u321m25rKXc)
 - [Adam Frank: Alien Civilizations and the Search for Extraterrestrial Life | Lex Fridman Podcast #455](https://www.youtube.com/watch?v=yhZAXXI83-4)
 - [Saagar Enjeti: Trump, MAGA, DOGE, Obama, FDR, JFK, History &amp; Politics | Lex Fridman Podcast #454](https://www.youtube.com/watch?v=9xz8i90Hp2A)
 - [Javier Milei: President of Argentina - Freedom, Economics, and Corruption | Lex Fridman Podcast #453](https://www.youtube.com/watch?v=8NLzc9kobDk)
-- [Dario Amodei: Anthropic CEO on Claude, AGI &amp; the Future of AI &amp; Humanity | Lex Fridman Podcast #452](https://www.youtube.com/watch?v=ugvHCXCOmm4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
