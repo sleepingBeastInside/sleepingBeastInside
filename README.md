@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Narendra Modi: Prime Minister of India - Power, Democracy, War &amp; Peace | Lex Fridman Podcast #460](https://www.youtube.com/watch?v=ZPUtA3W-7_I)
 - [DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast #459](https://www.youtube.com/watch?v=_1f-o0nqpEI)
 - [Marc Andreessen: Trump, Power, Tech, AI, Immigration &amp; Future of America | Lex Fridman Podcast #458](https://www.youtube.com/watch?v=OHWnPOKh_S0)
 - [Jennifer Burns: Milton Friedman, Ayn Rand, Economics, Capitalism, Freedom | Lex Fridman Podcast #457](https://www.youtube.com/watch?v=Rz-4ulRKnz4)
 - [Volodymyr Zelenskyy: Ukraine, War, Peace, Putin, Trump, NATO, and Freedom | Lex Fridman Podcast #456](https://www.youtube.com/watch?v=u321m25rKXc)
-- [Adam Frank: Alien Civilizations and the Search for Extraterrestrial Life | Lex Fridman Podcast #455](https://www.youtube.com/watch?v=yhZAXXI83-4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
