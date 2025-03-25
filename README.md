@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Ezra Klein and Derek Thompson: Politics, Trump, AOC, Elon &amp; DOGE | Lex Fridman Podcast #462](https://www.youtube.com/watch?v=DTPSeeKokdo)
 - [ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God | Lex Fridman Podcast #461](https://www.youtube.com/watch?v=tNZnLkRBYA8)
 - [Narendra Modi: Prime Minister of India - Power, Democracy, War &amp; Peace | Lex Fridman Podcast #460](https://www.youtube.com/watch?v=ZPUtA3W-7_I)
 - [DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast #459](https://www.youtube.com/watch?v=_1f-o0nqpEI)
 - [Marc Andreessen: Trump, Power, Tech, AI, Immigration &amp; Future of America | Lex Fridman Podcast #458](https://www.youtube.com/watch?v=OHWnPOKh_S0)
-- [Jennifer Burns: Milton Friedman, Ayn Rand, Economics, Capitalism, Freedom | Lex Fridman Podcast #457](https://www.youtube.com/watch?v=Rz-4ulRKnz4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
