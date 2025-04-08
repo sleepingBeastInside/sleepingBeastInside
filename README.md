@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dave Smith: Israel, Ukraine, Epstein, Mossad, Conspiracies &amp; Antisemitism | Lex Fridman Podcast #464](https://www.youtube.com/watch?v=1V0bJfqEaa4)
 - [Douglas Murray: Putin, Zelenskyy, Trump, Israel, Netanyahu, Hamas &amp; Gaza | Lex Fridman Podcast #463](https://www.youtube.com/watch?v=HvI42TyE5Ww)
 - [Ezra Klein and Derek Thompson: Politics, Trump, AOC, Elon &amp; DOGE | Lex Fridman Podcast #462](https://www.youtube.com/watch?v=DTPSeeKokdo)
 - [ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God | Lex Fridman Podcast #461](https://www.youtube.com/watch?v=tNZnLkRBYA8)
 - [Narendra Modi: Prime Minister of India - Power, Democracy, War &amp; Peace | Lex Fridman Podcast #460](https://www.youtube.com/watch?v=ZPUtA3W-7_I)
-- [DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast #459](https://www.youtube.com/watch?v=_1f-o0nqpEI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
