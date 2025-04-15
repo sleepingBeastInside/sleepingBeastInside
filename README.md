@@ -58,7 +58,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Dave Smith: Israel, Ukraine, Epstein, Mossad, Conspiracies &amp; Antisemitism | Lex Fridman Podcast #464](https://www.youtube.com/watch?v=1V0bJfqEaa4)
+- [Dave Smith: Israel, Hamas, Ukraine, Russia, Conspiracies &amp; Antisemitism | Lex Fridman Podcast #464](https://www.youtube.com/watch?v=1V0bJfqEaa4)
 - [Douglas Murray: Putin, Zelenskyy, Trump, Israel, Netanyahu, Hamas &amp; Gaza | Lex Fridman Podcast #463](https://www.youtube.com/watch?v=HvI42TyE5Ww)
 - [Ezra Klein and Derek Thompson: Politics, Trump, AOC, Elon &amp; DOGE | Lex Fridman Podcast #462](https://www.youtube.com/watch?v=DTPSeeKokdo)
 - [ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God | Lex Fridman Podcast #461](https://www.youtube.com/watch?v=tNZnLkRBYA8)
