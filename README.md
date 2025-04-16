@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Robert Rodriguez: Sin City, Desperado, El Mariachi, Alita, and Filmmaking | Lex Fridman Podcast #465](https://www.youtube.com/watch?v=xJoT3bJyHuA)
 - [Dave Smith: Israel, Hamas, Ukraine, Russia, Conspiracies &amp; Antisemitism | Lex Fridman Podcast #464](https://www.youtube.com/watch?v=1V0bJfqEaa4)
 - [Douglas Murray: Putin, Zelenskyy, Trump, Israel, Netanyahu, Hamas &amp; Gaza | Lex Fridman Podcast #463](https://www.youtube.com/watch?v=HvI42TyE5Ww)
 - [Ezra Klein and Derek Thompson: Politics, Trump, AOC, Elon &amp; DOGE | Lex Fridman Podcast #462](https://www.youtube.com/watch?v=DTPSeeKokdo)
 - [ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God | Lex Fridman Podcast #461](https://www.youtube.com/watch?v=tNZnLkRBYA8)
-- [Narendra Modi: Prime Minister of India - Power, Democracy, War &amp; Peace | Lex Fridman Podcast #460](https://www.youtube.com/watch?v=ZPUtA3W-7_I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
