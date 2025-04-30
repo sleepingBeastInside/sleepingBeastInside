@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tim Sweeney: Fortnite, Unreal Engine, and the Future of Gaming | Lex Fridman Podcast #467](https://www.youtube.com/watch?v=477qF6QNSvc)
 - [Jeffrey Wasserstrom: China, Xi Jinping, Trade War, Taiwan, Hong Kong, Mao | Lex Fridman Podcast #466](https://www.youtube.com/watch?v=3W5FWUN5w2Q)
 - [Robert Rodriguez: Sin City, Desperado, El Mariachi, Alita, and Filmmaking | Lex Fridman Podcast #465](https://www.youtube.com/watch?v=xJoT3bJyHuA)
 - [Dave Smith: Israel, Hamas, Ukraine, Russia, Conspiracies &amp; Antisemitism | Lex Fridman Podcast #464](https://www.youtube.com/watch?v=1V0bJfqEaa4)
 - [Douglas Murray: Putin, Zelenskyy, Trump, Israel, Netanyahu, Hamas &amp; Gaza | Lex Fridman Podcast #463](https://www.youtube.com/watch?v=HvI42TyE5Ww)
-- [Ezra Klein and Derek Thompson: Politics, Trump, AOC, Elon &amp; DOGE | Lex Fridman Podcast #462](https://www.youtube.com/watch?v=DTPSeeKokdo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
