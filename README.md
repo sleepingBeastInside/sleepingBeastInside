@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Oliver Anthony: Country Music, Blue-Collar America, Fame, Money, and Pain | Lex Fridman Podcast #469](https://www.youtube.com/watch?v=4OyB3hFb2AA)
 - [Janna Levin: Black Holes, Wormholes, Aliens, Paradoxes &amp; Extra Dimensions | Lex Fridman Podcast #468](https://www.youtube.com/watch?v=A6m4iJIw_84)
 - [Tim Sweeney: Fortnite, Unreal Engine, and the Future of Gaming | Lex Fridman Podcast #467](https://www.youtube.com/watch?v=477qF6QNSvc)
 - [Jeffrey Wasserstrom: China, Xi Jinping, Trade War, Taiwan, Hong Kong, Mao | Lex Fridman Podcast #466](https://www.youtube.com/watch?v=3W5FWUN5w2Q)
 - [Robert Rodriguez: Sin City, Desperado, El Mariachi, Alita, and Filmmaking | Lex Fridman Podcast #465](https://www.youtube.com/watch?v=xJoT3bJyHuA)
-- [Dave Smith: Israel, Hamas, Ukraine, Russia, Conspiracies &amp; Antisemitism | Lex Fridman Podcast #464](https://www.youtube.com/watch?v=1V0bJfqEaa4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
