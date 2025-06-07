@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Lex Fridman tests Google Beam](https://www.youtube.com/watch?v=sXPONXB8WCo)
 - [Sundar Pichai: CEO of Google and Alphabet | Lex Fridman Podcast #471](https://www.youtube.com/watch?v=9V6tWC4CdFQ)
 - [James Holland: World War II, Hitler, Churchill, Stalin &amp; Biggest Battles | Lex Fridman Podcast #470](https://www.youtube.com/watch?v=cp1lprZUQcE)
 - [Oliver Anthony: Country Music, Blue-Collar America, Fame, Money, and Pain | Lex Fridman Podcast #469](https://www.youtube.com/watch?v=4OyB3hFb2AA)
 - [Janna Levin: Black Holes, Wormholes, Aliens, Paradoxes &amp; Extra Dimensions | Lex Fridman Podcast #468](https://www.youtube.com/watch?v=A6m4iJIw_84)
-- [Tim Sweeney: Fortnite, Unreal Engine, and the Future of Gaming | Lex Fridman Podcast #467](https://www.youtube.com/watch?v=477qF6QNSvc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
