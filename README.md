@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Terence Tao on Grigori Perelman declining the Fields Medal](https://www.youtube.com/watch?v=UN5qgBk6MwY)
 - [Terence Tao: Hardest Problems in Mathematics, Physics &amp; the Future of AI | Lex Fridman Podcast #472](https://www.youtube.com/watch?v=HUkBz-cdB-k)
 - [Lex Fridman tests Google XR glasses](https://www.youtube.com/watch?v=b268x2kzefY)
 - [Google CEO on Elon Musk, Tesla, and Waymo](https://www.youtube.com/watch?v=ufI31PNM9u8)
 - [Lex Fridman tests Google Beam](https://www.youtube.com/watch?v=sXPONXB8WCo)
-- [Sundar Pichai: CEO of Google and Alphabet | Lex Fridman Podcast #471](https://www.youtube.com/watch?v=9V6tWC4CdFQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
