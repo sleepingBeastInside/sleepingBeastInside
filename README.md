@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [DHH: Future of Programming, AI, Ruby on Rails, Productivity &amp; Parenting | Lex Fridman Podcast #474](https://www.youtube.com/watch?v=vagyIcmIGOQ)
 - [Eisenhower&#39;s warning about the military industrial complex. I think about these words often.](https://www.youtube.com/shorts/dnuVvRyrBb0)
 - [Iran War Debate: Nuclear Weapons, Trump, Peace, Power &amp; the Middle East | Lex Fridman Podcast #473](https://www.youtube.com/watch?v=gtmJi8LbAts)
 - [Terence Tao on Grigori Perelman declining the Fields Medal](https://www.youtube.com/shorts/UN5qgBk6MwY)
 - [Terence Tao: Hardest Problems in Mathematics, Physics &amp; the Future of AI | Lex Fridman Podcast #472](https://www.youtube.com/watch?v=HUkBz-cdB-k)
-- [Lex Fridman tests Google XR glasses](https://www.youtube.com/shorts/b268x2kzefY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
