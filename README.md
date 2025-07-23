@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast #475](https://www.youtube.com/watch?v=-HzgcbRXUK8)
 - [DHH rant against Apple](https://www.youtube.com/shorts/upeawiM1Sag)
 - [Advice for beginner programmers](https://www.youtube.com/shorts/UbOjufRmpq4)
 - [DHH: Future of Programming, AI, Ruby on Rails, Productivity &amp; Parenting | Lex Fridman Podcast #474](https://www.youtube.com/watch?v=vagyIcmIGOQ)
 - [Eisenhower&#39;s warning about the military industrial complex. I think about these words often.](https://www.youtube.com/shorts/dnuVvRyrBb0)
-- [Iran War Debate: Nuclear Weapons, Trump, Peace, Power &amp; the Middle East | Lex Fridman Podcast #473](https://www.youtube.com/watch?v=gtmJi8LbAts)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
