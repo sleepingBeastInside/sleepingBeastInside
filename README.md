@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Timeline for AGI: 2030 with 50% chance](https://www.youtube.com/shorts/mO3ay4F3S60)
 - [Jack Weatherford: Genghis Khan and the Mongol Empire | Lex Fridman Podcast #476](https://www.youtube.com/watch?v=U1H1Ob7jk8Q)
 - [Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast #475](https://www.youtube.com/watch?v=-HzgcbRXUK8)
 - [DHH rant against Apple](https://www.youtube.com/shorts/upeawiM1Sag)
 - [Advice for beginner programmers](https://www.youtube.com/shorts/UbOjufRmpq4)
-- [DHH: Future of Programming, AI, Ruby on Rails, Productivity &amp; Parenting | Lex Fridman Podcast #474](https://www.youtube.com/watch?v=vagyIcmIGOQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
