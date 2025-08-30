@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dave Plummer: Programming, Autism, and Old-School Microsoft Stories | Lex Fridman Podcast #479](https://www.youtube.com/watch?v=HsLgZzgpz9Y)
 - [Scott Horton: The Case Against War and the Military Industrial Complex | Lex Fridman Podcast #478](https://www.youtube.com/watch?v=jdCKiEJpwf4)
 - [Keyu Jin: China&#39;s Economy, Tariffs, Trade, Trump, Communism &amp; Capitalism | Lex Fridman Podcast #477](https://www.youtube.com/watch?v=y3yAVZk3tyA)
 - [High salaries for AI engineers: The talent war in AI](https://www.youtube.com/shorts/1WrrOJJ8-5g)
 - [Timeline for AGI: 2030 with 50% chance](https://www.youtube.com/shorts/mO3ay4F3S60)
-- [Jack Weatherford: Genghis Khan and the Mongol Empire | Lex Fridman Podcast #476](https://www.youtube.com/watch?v=U1H1Ob7jk8Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
