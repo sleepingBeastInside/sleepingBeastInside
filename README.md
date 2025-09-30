@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Pavel Durov: Telegram, Freedom, Censorship, Money, Power &amp; Human Nature | Lex Fridman Podcast #482](https://www.youtube.com/watch?v=qjPH9njnaVU)
 - [Norman Ohler: Hitler, Nazis, Drugs, WW2, Blitzkrieg, LSD, MKUltra &amp; CIA | Lex Fridman Podcast #481](https://www.youtube.com/watch?v=SvKv7D4pBjE)
 - [Dave Hone: T-Rex, Dinosaurs, Extinction, Evolution, and Jurassic Park | Lex Fridman Podcast #480](https://www.youtube.com/watch?v=-Qm1_On71Oo)
 - [Dave Plummer: Programming, Autism, and Old-School Microsoft Stories | Lex Fridman Podcast #479](https://www.youtube.com/watch?v=HsLgZzgpz9Y)
 - [Scott Horton: The Case Against War and the Military Industrial Complex | Lex Fridman Podcast #478](https://www.youtube.com/watch?v=jdCKiEJpwf4)
-- [Keyu Jin: China&#39;s Economy, Tariffs, Trade, Trump, Communism &amp; Capitalism | Lex Fridman Podcast #477](https://www.youtube.com/watch?v=y3yAVZk3tyA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
