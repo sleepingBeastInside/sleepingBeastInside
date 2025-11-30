@@ -58,7 +58,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Michael Levin: Hidden Reality of Alien Intelligence &amp; Biological Life | Lex Fridman Podcast #486](https://www.youtube.com/watch?v=Qp0rCU49lMs)
+- [Michael Levin: Reality is an Illusion - Alien Intelligence, Biology, Life | Lex Fridman Podcast #486](https://www.youtube.com/watch?v=Qp0rCU49lMs)
 - [David Kirtley: Nuclear Fusion, Plasma Physics, and the Future of Energy | Lex Fridman Podcast #485](https://www.youtube.com/watch?v=m_CFCyc2Shs)
 - [Dan Houser: GTA, Red Dead Redemption, Rockstar, Absurd &amp; Future of Gaming | Lex Fridman Podcast #484](https://www.youtube.com/watch?v=o3gbXDjNWyI)
 - [Julia Shaw: Criminal Psychology of Murder, Serial Killers, Memory &amp; Sex | Lex Fridman Podcast #483](https://www.youtube.com/watch?v=7OLVwZeMCfY)
