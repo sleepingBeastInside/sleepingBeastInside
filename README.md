@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489](https://www.youtube.com/watch?v=Z-FRe5AKmCU)
 - [Infinity, Paradoxes, Gödel Incompleteness &amp; the Mathematical Multiverse | Lex Fridman Podcast #488](https://www.youtube.com/watch?v=14OPT6CcsH4)
 - [Deciphering Secrets of Ancient Civilizations, Noah&#39;s Ark, and Flood Myths | Lex Fridman Podcast #487](https://www.youtube.com/watch?v=_bBRVNkAfkQ)
 - [Michael Levin: Hidden Reality of Alien Intelligence &amp; Biological Life | Lex Fridman Podcast #486](https://www.youtube.com/watch?v=Qp0rCU49lMs)
 - [David Kirtley: Nuclear Fusion, Plasma Physics, and the Future of Energy | Lex Fridman Podcast #485](https://www.youtube.com/watch?v=m_CFCyc2Shs)
-- [Dan Houser: GTA, Red Dead Redemption, Rockstar, Absurd &amp; Future of Gaming | Lex Fridman Podcast #484](https://www.youtube.com/watch?v=o3gbXDjNWyI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
