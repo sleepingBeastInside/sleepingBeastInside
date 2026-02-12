@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491](https://www.youtube.com/watch?v=YFjfBk8HI5o)
 - [State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490](https://www.youtube.com/watch?v=EV7WhVT270Q)
 - [Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489](https://www.youtube.com/watch?v=Z-FRe5AKmCU)
 - [Infinity, Paradoxes, Gödel Incompleteness &amp; the Mathematical Multiverse | Lex Fridman Podcast #488](https://www.youtube.com/watch?v=14OPT6CcsH4)
 - [Deciphering Secrets of Ancient Civilizations, Noah&#39;s Ark, and Flood Myths | Lex Fridman Podcast #487](https://www.youtube.com/watch?v=_bBRVNkAfkQ)
-- [Michael Levin: Hidden Reality of Alien Intelligence &amp; Biological Life | Lex Fridman Podcast #486](https://www.youtube.com/watch?v=Qp0rCU49lMs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
