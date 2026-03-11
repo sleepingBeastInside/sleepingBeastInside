@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493](https://www.youtube.com/watch?v=H9rF1CSSh-w)
 - [Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI](https://www.youtube.com/shorts/SHlrUAkkWI0)
 - [Rick Beato: Greatest Guitarists of All Time, History &amp; Future of Music | Lex Fridman Podcast #492](https://www.youtube.com/watch?v=1SJiTwbSI58)
 - [Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE](https://www.youtube.com/watch?v=KGVpKPNUdzA)
 - [OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491](https://www.youtube.com/watch?v=YFjfBk8HI5o)
-- [State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490](https://www.youtube.com/watch?v=EV7WhVT270Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
