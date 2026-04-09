@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495](https://www.youtube.com/watch?v=iKx3gAODybU)
 - [Jensen Huang: NVIDIA - The $4 Trillion Company &amp; the AI Revolution | Lex Fridman Podcast #494](https://www.youtube.com/watch?v=vif8NQcjVf0)
 - [Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493](https://www.youtube.com/watch?v=H9rF1CSSh-w)
 - [Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI](https://www.youtube.com/shorts/SHlrUAkkWI0)
 - [Rick Beato: Greatest Guitarists of All Time, History &amp; Future of Music | Lex Fridman Podcast #492](https://www.youtube.com/watch?v=1SJiTwbSI58)
-- [Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE](https://www.youtube.com/watch?v=KGVpKPNUdzA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
