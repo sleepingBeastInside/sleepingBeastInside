@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Biggest Mysteries in Physics: Antimatter, Dark Energy &amp; ToE - Don Lincoln | Lex Fridman Podcast #497](https://www.youtube.com/watch?v=1M3Vdl6DRkU)
 - [FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496](https://www.youtube.com/watch?v=nepKKz-MzFM)
 - [Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495](https://www.youtube.com/watch?v=iKx3gAODybU)
 - [Jensen Huang: NVIDIA - The $4 Trillion Company &amp; the AI Revolution | Lex Fridman Podcast #494](https://www.youtube.com/watch?v=vif8NQcjVf0)
 - [Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493](https://www.youtube.com/watch?v=H9rF1CSSh-w)
-- [Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI](https://www.youtube.com/shorts/SHlrUAkkWI0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
