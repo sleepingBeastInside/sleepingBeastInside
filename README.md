@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor &amp; Football | Lex Fridman Podcast #500](https://www.youtube.com/watch?v=l6USUAIKJls)
 - [Gary Gallagher: American Civil War, Slavery, Lincoln, Grant &amp; Lee | Lex Fridman Podcast #499](https://www.youtube.com/watch?v=XyXBwO5jYpw)
 - [The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498](https://www.youtube.com/watch?v=pv1TUJSEM2k)
 - [Biggest Mysteries in Physics: Antimatter, Dark Energy &amp; ToE - Don Lincoln | Lex Fridman Podcast #497](https://www.youtube.com/watch?v=1M3Vdl6DRkU)
 - [FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496](https://www.youtube.com/watch?v=nepKKz-MzFM)
-- [Vikings, Ragnar, Berserkers, Valhalla &amp; the Warriors of the Viking Age | Lex Fridman Podcast #495](https://www.youtube.com/watch?v=iKx3gAODybU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
