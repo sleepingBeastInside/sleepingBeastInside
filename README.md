@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &amp; Jung | Lex Fridman Podcast #502](https://www.youtube.com/watch?v=s7d2d8FhevU)
 - [DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding &amp; Linux | Lex Fridman Podcast #501](https://www.youtube.com/watch?v=NYFGCESmikA)
 - [Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor &amp; Football | Lex Fridman Podcast #500](https://www.youtube.com/watch?v=l6USUAIKJls)
 - [Gary Gallagher: American Civil War, Slavery, Lincoln, Grant &amp; Lee | Lex Fridman Podcast #499](https://www.youtube.com/watch?v=XyXBwO5jYpw)
 - [The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498](https://www.youtube.com/watch?v=pv1TUJSEM2k)
-- [Biggest Mysteries in Physics: Antimatter, Dark Energy &amp; ToE - Don Lincoln | Lex Fridman Podcast #497](https://www.youtube.com/watch?v=1M3Vdl6DRkU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
