@@ -59,7 +59,7 @@
 
 <!-- YOUTUBE:START -->
 - [AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp; Complexity Theory | Lex Fridman Podcast #503](https://www.youtube.com/watch?v=ZAzWPE9CItg)
-- [The FULL Taiwan Experience w/ Jensen Huang | Lex Fridman](https://www.youtube.com/watch?v=FGCP2F_7rQk)
+- [Visiting Taiwan w/ Jensen Huang | Lex Fridman](https://www.youtube.com/watch?v=FGCP2F_7rQk)
 - [Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &amp; Jung | Lex Fridman Podcast #502](https://www.youtube.com/watch?v=s7d2d8FhevU)
 - [DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding &amp; Linux | Lex Fridman Podcast #501](https://www.youtube.com/watch?v=NYFGCESmikA)
 - [Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor &amp; Football | Lex Fridman Podcast #500](https://www.youtube.com/watch?v=l6USUAIKJls)
