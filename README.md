@@ -60,7 +60,7 @@
 <!-- YOUTUBE:START -->
 - [Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare | Lex Fridman Podcast #504](https://www.youtube.com/watch?v=2hJkprFnzhY)
 - [AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp; Complexity Theory | Lex Fridman Podcast #503](https://www.youtube.com/watch?v=ZAzWPE9CItg)
-- [Jensen Huang &amp; Lex Fridman in Taiwan](https://www.youtube.com/watch?v=FGCP2F_7rQk)
+- [Jensen Huang &amp; Lex Fridman visit Taiwan&#39;s Night Markets and Computex](https://www.youtube.com/watch?v=FGCP2F_7rQk)
 - [Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &amp; Jung | Lex Fridman Podcast #502](https://www.youtube.com/watch?v=s7d2d8FhevU)
 - [DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding &amp; Linux | Lex Fridman Podcast #501](https://www.youtube.com/watch?v=NYFGCESmikA)
 <!-- YOUTUBE:END -->
