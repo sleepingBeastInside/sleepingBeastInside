@@ -58,10 +58,10 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [GTA 6, Money, Gangs, Crime, Mafia, Prison, Corrupt Cops &amp; Jewelry Heists | Lex Fridman Podcast #505](https://www.youtube.com/watch?v=v1X9Fqs5a14)
+- [Larry Lawton: The Biggest Jewelry Thief in US History | Lex Fridman Podcast #505](https://www.youtube.com/watch?v=v1X9Fqs5a14)
 - [Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare | Lex Fridman Podcast #504](https://www.youtube.com/watch?v=2hJkprFnzhY)
 - [AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp; Complexity Theory | Lex Fridman Podcast #503](https://www.youtube.com/watch?v=ZAzWPE9CItg)
-- [Jensen Huang &amp; Lex Fridman visit Taiwan](https://www.youtube.com/watch?v=FGCP2F_7rQk)
+- [Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman](https://www.youtube.com/watch?v=FGCP2F_7rQk)
 - [Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &amp; Jung | Lex Fridman Podcast #502](https://www.youtube.com/watch?v=s7d2d8FhevU)
 <!-- YOUTUBE:END -->
 
