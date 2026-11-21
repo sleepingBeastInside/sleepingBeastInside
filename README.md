@@ -58,7 +58,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Larry Lawton: The Biggest Jewelry Thief in US History | Lex Fridman Podcast #505](https://www.youtube.com/watch?v=v1X9Fqs5a14)
+- [GTA 6, Crime, Prison Gangs, Jewel Heists, Miami, Corrupt Cops &amp; Money | Lex Fridman Podcast #505](https://www.youtube.com/watch?v=v1X9Fqs5a14)
 - [Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare | Lex Fridman Podcast #504](https://www.youtube.com/watch?v=2hJkprFnzhY)
 - [AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp; Complexity Theory | Lex Fridman Podcast #503](https://www.youtube.com/watch?v=ZAzWPE9CItg)
 - [Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman](https://www.youtube.com/watch?v=FGCP2F_7rQk)
